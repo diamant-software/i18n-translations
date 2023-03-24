@@ -2084,7 +2084,7 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="yes" datatype="html">
-        <source>Ja</source>
+        <source>Jaha</source>
         <target>Yes</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/services/user-confirmation-message.service.ts</context>
