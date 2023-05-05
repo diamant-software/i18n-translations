@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file source-language="de" target-language="en-DE" datatype="plaintext" original="ng2.template">
+  <file source-language="de" target-language="ENGB" datatype="plaintext" original="ng2.template">
     <body>
       <trans-unit id="0223abe5dc060383b58df6d9f83dc98b08ba8e2b" datatype="html">
         <source>HEX Color</source>
