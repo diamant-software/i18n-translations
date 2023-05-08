@@ -1,738 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file source-language="de" target-language="ENGB" datatype="plaintext" original="ng2.template">
-    <body>
-      <trans-unit id="0223abe5dc060383b58df6d9f83dc98b08ba8e2b" datatype="html">
-        <source>HEX Color</source>
-        <target>HEX Color</target>
-        <note priority="1" from="description">The placeholder for the HEX color input.</note>
-        <note priority="1" from="meaning">kendo.colorgradient.hexInputPlaceholder</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">8226,8230</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="031715cd6a995d5dd1f62365cfe1b9e6226ca185" datatype="html">
-        <source>Navigate to previous view</source>
-        <target>Navigate to previous view</target>
-        <note priority="1" from="description">The title of the previous button in the Classic calendar</note>
-        <note priority="1" from="meaning">kendo.calendar.prevButtonTitle</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">3780,3783</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="042c26f68d78afd6834ea46a5f7533850fe8c800" datatype="html">
-        <source>decrement</source>
-        <target>Decrease value</target>
-        <note priority="1" from="description">The title of the **Decrease** button of the Slider.</note>
-        <note priority="1" from="meaning">kendo.slider.decrement</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">1211,1216</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="069e8fae80677e3e785861123bef446b3ff41ab4" datatype="html">
-        <source>clear</source>
-        <target>clear</target>
-        <note priority="1" from="description">The title of the clear button</note>
-        <note priority="1" from="meaning">kendo.combobox.clearTitle</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dropdowns/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">4269,4272</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dropdowns/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">7372,7375</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="08dfbdfffd662371a6ff4c0b6ed82b9faa48143b" datatype="html">
-        <source>Cancel changes</source>
-        <target>Cancel changes</target>
-        <note priority="1" from="description">The label for the Cancel button in the timeselector component</note>
-        <note priority="1" from="meaning">kendo.timeselector.cancelLabel</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">14038,14043</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="08e6a8a51d970609e138950fdd89c5cf201869f3" datatype="html">
-        <source>Select now</source>
-        <target>Select now</target>
-        <note priority="1" from="description">The label for the Now button in the timeselector component</note>
-        <note priority="1" from="meaning">kendo.timeselector.nowLabel</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">14066,14070</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="0c1eef35af82330d89cacecb2aa482d9da1e3a4b" datatype="html">
-        <source>Green</source>
-        <target>Green</target>
-        <note priority="1" from="description">The placeholder for the green color input.</note>
-        <note priority="1" from="meaning">kendo.colorpicker.greenInputPlaceholder</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">8875,8879</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="0eded761107e6dad120997006a7f915bade9b15c" datatype="html">
-        <source>Decrease value</source>
-        <target>Decrease value</target>
-        <note priority="1" from="description">The label for the **Decrement** button in the DateInput</note>
-        <note priority="1" from="meaning">kendo.dateinput.decrement</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">5344,5348</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="0fa71630d40c425b9c366afd7f6c3cecc5bef59d" datatype="html">
-        <source>increment</source>
-        <target>Increase value</target>
-        <note priority="1" from="description">The title of the **Increase** button of the Slider.</note>
-        <note priority="1" from="meaning">kendo.slider.increment</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">1201,1203</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="0fc68540ffa04fdc246cf6cf8a1fed085f8b19a5" datatype="html">
-        <source>Increase value</source>
-        <target>Increase value</target>
-        <note priority="1" from="description">The title for the **Increment** button in the NumericTextBox</note>
-        <note priority="1" from="meaning">kendo.numerictextbox.increment</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">3795,3799</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="122a5434fa0f1ee3ef735e859c1db1606542c995" datatype="html">
-        <source>Alpha</source>
-        <target>Alpha</target>
-        <note priority="1" from="description">The placeholder for the alpha input.</note>
-        <note priority="1" from="meaning">kendo.colorgradient.alphaInputPlaceholder</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">8285,8289</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="132eefca16bd41d489b4647724b91e93793603aa" datatype="html">
-        <source>Cancel</source>
-        <target>Cancel</target>
-        <note priority="1" from="description">The Cancel button text in the timepicker component</note>
-        <note priority="1" from="meaning">kendo.timepicker.cancel</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">7425,7426</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="136a6a537523c480df0e58c17cc6d4c2dda8e626" datatype="html">
-        <source>Colorgradient no color chosen</source>
-        <target>Colorgradient no color chosen</target>
-        <note priority="1" from="description">The aria-label applied to the ColorGradient component when the value is empty.</note>
-        <note priority="1" from="meaning">kendo.colorgradient.colorGradientNoColor</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">8168,8173</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="13bf7e3a1036140119732c6d5952f7a20c22999e" datatype="html">
-        <source>Time tab</source>
-        <target>Time tab</target>
-        <note priority="1" from="description">The label for the Time tab in the datetimepicker popup header</note>
-        <note priority="1" from="meaning">kendo.datetimepicker.timeTabLabel</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">8571,8575</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="155f0a38198ffbf0429c5dbf9765e74f246a8617" datatype="html">
-        <source>ON</source>
-        <target>On</target>
-        <note priority="1" from="description">The **On** label of the Switch.</note>
-        <note priority="1" from="meaning">kendo.switch.on</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">2163,2166</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="1689309191709bbbb071c889072707cb3f12dc93" datatype="html">
-        <source>NO DATA FOUND</source>
-        <target>NO DATA FOUND</target>
-        <note priority="1" from="description">The text displayed in the popup when there are no items</note>
-        <note priority="1" from="meaning">kendo.multiselecttree.noDataText</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dropdowns/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">10397,10403</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="17ab795d6f7527dd962a309759ca58cb4edd7e52" datatype="html">
-        <source>Cancel</source>
-        <target>Cancel</target>
-        <note priority="1" from="description">The Cancel button text in the datetimepicker component</note>
-        <note priority="1" from="meaning">kendo.datetimepicker.cancel</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">8621,8623</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="2113669395025448007" datatype="html">
-        <source>Registerkarte schließen</source>
-        <target>Close tab</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/workspace/company/services/usecase-tab.service.ts</context>
-          <context context-type="linenumber">145</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="21883ee2927bd4cde8071c9cbec41901a0bc4bd2" datatype="html">
-        <source>Set opacity</source>
-        <target>Set opacity</target>
-        <note priority="1" from="description">The title for the opacity slider handle.</note>
-        <note priority="1" from="meaning">kendo.colorpicker.opacitySliderHandle</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">8845,8847</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="22a98afddf46223dce8a3e122f4fe84ca76488b9" datatype="html">
-        <source>Set hue</source>
-        <target>Set hue</target>
-        <note priority="1" from="description">The title for the hue slider handle.</note>
-        <note priority="1" from="meaning">kendo.colorgradient.hueSliderHandle</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">8206,8208</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="23a18095f2c16d40a04251fa2fb15d3927e7a79a" datatype="html">
-        <source>NO DATA FOUND</source>
-        <target>No data found</target>
-        <note priority="1" from="description">The text displayed in the popup when there are no items</note>
-        <note priority="1" from="meaning">kendo.multicolumncombobox.noDataText</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dropdowns/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">7926,7928</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="28d3600711ed2cde12f915765a15978db3ec0fd1" datatype="html">
-        <source>Close</source>
-        <target>Close</target>
-        <note priority="1" from="description">The title for the **Close** button in the TabStrip tab.</note>
-        <note priority="1" from="meaning">kendo.tabstrip.closeTitle</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-layout/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">2953,2956</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="2a400c9e364a4c6d83ac39b5513c962805db54b2" datatype="html">
-        <source>Date tab</source>
-        <target>Date tab</target>
-        <note priority="1" from="description">The label for the Date tab in the datetimepicker popup header</note>
-        <note priority="1" from="meaning">kendo.datetimepicker.dateTabLabel</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">8546,8549</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="2b6e00c74a6d9c98c03a6274d0224e9bd457ff89" datatype="html">
-        <source>NO DATA FOUND</source>
-        <target>No data found</target>
-        <note priority="1" from="description">The text displayed in the popup when there are no items</note>
-        <note priority="1" from="meaning">kendo.combobox.noDataText</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dropdowns/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">4256,4260</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="2cf6f4ca4470810944b4016c9b6f87943d3390ab" datatype="html">
-        <source>Cancel changes</source>
-        <target>Cancel</target>
-        <note priority="1" from="description">The label for the Cancel button in the timepicker component</note>
-        <note priority="1" from="meaning">kendo.timepicker.cancelLabel</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">7438,7441</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="2f0e2a91beb7149035e42bd0d6663e8903dc3852" datatype="html">
-        <source>Navigate to next view</source>
-        <target>Navigate to next view</target>
-        <note priority="1" from="description">The title of the next button in the Classic calendar</note>
-        <note priority="1" from="meaning">kendo.datepicker.nextButtonTitle</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">6433,6438</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="3004d7704ffa6202a3b3925fcea490e486203a3e" datatype="html">
-        <source>Cancel</source>
-        <target>Cancel</target>
-        <note priority="1" from="description">The Cancel button text in the timeselector component</note>
-        <note priority="1" from="meaning">kendo.timeselector.cancel</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">14023,14026</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="3cc1323f79a5fe012960578e513f8a35b2af1e96" datatype="html">
-        <source>NO DATA FOUND</source>
-        <target>No data found</target>
-        <note priority="1" from="description">The text displayed in the popup when there are no items</note>
-        <note priority="1" from="meaning">kendo.multiselect.noDataText</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dropdowns/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">7361,7363</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="3e3a529a242f39d22f841c3bd8045ec75b696b7a" datatype="html">
-        <source>Navigate to next view</source>
-        <target>Navigate to next view</target>
-        <note priority="1" from="description">The label for the next button in the Multiview calendar</note>
-        <note priority="1" from="meaning">kendo.multiviewcalendar.nextButtonTitle</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">10052,10057</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="42bc654ef8767c5df5277aa88941b94f8d373b4d" datatype="html">
-        <source>Maximize</source>
-        <target>Maximize</target>
-        <note priority="1" from="description">The title of the maximize button</note>
-        <note priority="1" from="meaning">kendo.window.maximizeTitle</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dialog/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">2239,2242</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="4359b59db7ded88e106ada877e744c71b188f8f9" datatype="html">
-        <source>Set</source>
-        <target>Set</target>
-        <note priority="1" from="description">The Accept button text in the datetimepicker component</note>
-        <note priority="1" from="meaning">kendo.datetimepicker.accept</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">8596,8599</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="447d09c4ecfc2ab2b84d708f4c07fa0fcda85167" datatype="html">
-        <source>Navigate to previous view</source>
-        <target>Navigate to previous view</target>
-        <note priority="1" from="description">The title of the previous button in the Classic calendar</note>
-        <note priority="1" from="meaning">kendo.datetimepicker.prevButtonTitle</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">8702,8705</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="4487c64285c2d8cdb336be783b6cb9304ce86007" datatype="html">
-        <source>Drag</source>
-        <target>Drag</target>
-        <note priority="1" from="description">The title of the **Start** drag handle of the Slider.</note>
-        <note priority="1" from="meaning">kendo.rangeslider.dragHandleStart</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">1772,1777</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="462ab46551fd64dca63ba38254e46a52aeb05205" datatype="html">
-        <source>Choose color</source>
-        <target>Choose color</target>
-        <note priority="1" from="description">The title for the gradient color drag handle chooser.</note>
-        <note priority="1" from="meaning">kendo.colorgradient.colorGradientHandle</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">8187,8192</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="481eb98e9cd8ef8e8b22051796441901e883763d" datatype="html">
-        <source>Drag</source>
-        <target>Drag</target>
-        <note priority="1" from="description">The title of the drag handle of the Slider.</note>
-        <note priority="1" from="meaning">kendo.slider.dragHandle</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">1229,1232</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="4c3bf42192220c7611c09ece1c5de14855139dd0" datatype="html">
-        <source>Set</source>
-        <target>Set</target>
-        <note priority="1" from="description">The Accept button text in the timepicker component</note>
-        <note priority="1" from="meaning">kendo.timepicker.accept</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">7392,7396</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="4e4aed4804d59e87f4f96959d0113c5ca292d98c" datatype="html">
-        <source>Alpha</source>
-        <target>Alpha</target>
-        <note priority="1" from="description">The placeholder for the alpha input.</note>
-        <note priority="1" from="meaning">kendo.colorpicker.alphaInputPlaceholder</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">8900,8902</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="4e9993e088a293543eb0c2801343518c115b6f20" datatype="html">
-        <source>NO DATA FOUND</source>
-        <target>No data found</target>
-        <note priority="1" from="description">The text displayed in the popup when there are no items</note>
-        <note priority="1" from="meaning">kendo.autocomplete.noDataText</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dropdowns/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">2752,2755</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="4fc2f70c9c8cf7b18affd6b938105996d6ac3306" datatype="html">
-        <source>NO DATA FOUND</source>
-        <target>No data found</target>
-        <note priority="1" from="description">The text displayed in the popup when there are no items</note>
-        <note priority="1" from="meaning">kendo.dropdownlist.noDataText</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dropdowns/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">5645,5649</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="50e5480cded07f92356e43143800db6b44dce024" datatype="html">
-        <source>Green</source>
-        <target>Green</target>
-        <note priority="1" from="description">The placeholder for the green color input.</note>
-        <note priority="1" from="meaning">kendo.colorgradient.greenInputPlaceholder</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">8253,8257</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="52d90641b26b1ce4c011cadf0437ce36c1dac1d5" datatype="html">
-        <source>Select now</source>
-        <target>Select now</target>
-        <note priority="1" from="description">The label for the Now button in the timepicker component</note>
-        <note priority="1" from="meaning">kendo.datetimepicker.nowLabel</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">8670,8673</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="549a21c02a5be9711c5297a917390d5f4c06448b" datatype="html">
-        <source>clear</source>
-        <target>clear</target>
-        <note priority="1" from="description">The title of the clear button</note>
-        <note priority="1" from="meaning">kendo.dropdowntree.clearTitle</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dropdowns/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">9068,9072</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="5662ca90a1b7d36b2f55d6e21c0f4f7e166291af" datatype="html">
-        <source>Optional</source>
-        <target>Optional</target>
-        <note priority="1" from="description">The text for the optional segment of the step label</note>
-        <note priority="1" from="meaning">kendo.stepper.optional</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-layout/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">4350,4353</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="5bb17f81ae8dbc109499ce3792afffa6b7cef855" datatype="html">
-        <source>Date</source>
-        <target>Date</target>
-        <note priority="1" from="description">The Date tab text in the datetimepicker popup header</note>
-        <note priority="1" from="meaning">kendo.datetimepicker.dateTab</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">8533,8537</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="60296a83f0d3e3d07aaba87c4f8e91b0aca3c22a" datatype="html">
-        <source>Toggle popup</source>
-        <target>Toggle popup</target>
-        <note priority="1" from="description">The title of the toggle button in the datetimepicker component</note>
-        <note priority="1" from="meaning">kendo.datetimepicker.toggle</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">8584,8587</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="60f46a6db83b89c15885de76451bb26478637d2c" datatype="html">
-        <source>Red</source>
-        <target>Red</target>
-        <note priority="1" from="description">The placeholder for the red color input.</note>
-        <note priority="1" from="meaning">kendo.colorpicker.redInputPlaceholder</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">8860,8862</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="6751958824888282028" datatype="html">
-        <source>Fehler beim Lesen der Mandanten-Favoriten.</source>
-        <target>Error reading company favorites.</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/app-startup-service.ts</context>
-          <context context-type="linenumber">234</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="6b371962a2564e2e50986f7ec238e513b466d553" datatype="html">
-        <source>clear</source>
-        <target>clear</target>
-        <note priority="1" from="description">The title of the clear button</note>
-        <note priority="1" from="meaning">kendo.multicolumncombobox.clearTitle</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dropdowns/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">7943,7947</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="6dc40c4a4ff302d1fe29e7bf9eadf1440b4654cf" datatype="html">
-        <source>Clear value</source>
-        <target>Clear value</target>
-        <note priority="1" from="description">The title for the clear button.</note>
-        <note priority="1" from="meaning">kendo.colorgradient.clearButton</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">8198,8200</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="7172e7e9a1741f6b63439ec89e498c995cb23b0d" datatype="html">
-        <source>NOW</source>
-        <target>NOW</target>
-        <note priority="1" from="description">The Now button text in the timepicker component</note>
-        <note priority="1" from="meaning">kendo.datetimepicker.now</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">8653,8658</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="79df1a6d2b35c32b2948e3cee56dd3ffe28127bc" datatype="html">
-        <source>OFF</source>
-        <target>Off</target>
-        <note priority="1" from="description">The **Off** label of the Switch.</note>
-        <note priority="1" from="meaning">kendo.switch.off</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">2178,2179</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="7a8b7961a5c754397897f39a824bdec621719040" datatype="html">
-        <source>Today</source>
-        <target>Today</target>
-        <note priority="1" from="description">The label for the today button in the calendar header</note>
-        <note priority="1" from="meaning">kendo.calendar.today</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">3767,3771</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="7af8ad339d09d41bfa8fa5f4e44d16e326cafd54" datatype="html">
-        <source>Set hue</source>
-        <target>Set hue</target>
-        <note priority="1" from="description">The title for the hue slider handle.</note>
-        <note priority="1" from="meaning">kendo.colorpicker.hueSliderHandle</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">8836,8841</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="7ca9f9b41a23760f7f74e91ee4c76d5a5f4a706c" datatype="html">
-        <source>Minimize</source>
-        <target>Minimize</target>
-        <note priority="1" from="description">The title of the minimize button</note>
-        <note priority="1" from="meaning">kendo.window.minimizeTitle</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dialog/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">2254,2257</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="7cf49cc2d50eebd29f8d61564512383caaaac7a6" datatype="html">
-        <source>clear</source>
-        <target>clear</target>
-        <note priority="1" from="description">The title of the clear button</note>
-        <note priority="1" from="meaning">kendo.autocomplete.clearTitle</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dropdowns/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">2766,2768</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="801811aa1609e3f173c86baa82cee037f75a215f" datatype="html">
-        <source>Set</source>
-        <target>Set</target>
-        <note priority="1" from="description">The Accept button text in the timeselector component</note>
-        <note priority="1" from="meaning">kendo.timeselector.accept</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">13993,13998</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="80fd3325bfe94a180fd27391f2245c024472ec58" datatype="html">
-        <source>Navigate to next view</source>
-        <target>Navigate to next view</target>
-        <note priority="1" from="description">The title of the next button in the Classic calendar</note>
-        <note priority="1" from="meaning">kendo.datetimepicker.nextButtonTitle</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">8715,8718</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="88c518588be223639d20666430d42b88990166c9" datatype="html">
-        <source>HEX Color</source>
-        <target>HEX Color</target>
-        <note priority="1" from="description">The placeholder for the HEX color input.</note>
-        <note priority="1" from="meaning">kendo.colorpicker.hexInputPlaceholder</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">8853,8855</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="8d537502a437254763c963398484bd362820af61" datatype="html">
-        <source>Choose color</source>
-        <target>Choose color</target>
-        <note priority="1" from="description">The title for the gradient color drag handle chooser.</note>
-        <note priority="1" from="meaning">kendo.colorpicker.colorGradientHandle</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">8806,8810</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="9098454119754693999" datatype="html">
-        <source>Suche</source>
-        <target>Search</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/header/services/search.service.ts</context>
-          <context context-type="linenumber">31</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="93c2a9c3aa49f56e452c0aecbaabe3bb33fa4222" datatype="html">
-        <source>Set time</source>
-        <target>Set</target>
-        <note priority="1" from="description">The label for the Accept button in the timepicker component</note>
-        <note priority="1" from="meaning">kendo.timepicker.acceptLabel</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">7411,7414</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="9828bb7d78de6289366052cdc37cf0bc74577313" datatype="html">
-        <source>Colorpalette no color chosen</source>
-        <target>Colorpalette no color chosen</target>
-        <note priority="1" from="description">The aria-label applied to the ColorPalette component when the value is empty.</note>
-        <note priority="1" from="meaning">kendo.colorpalette.colorPaletteNoColor</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">9410,9416</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="98cba1ae36a7bbe15e1bac1837e07922ec109e7d" datatype="html">
-        <source>Now</source>
-        <target>Now</target>
-        <note priority="1" from="description">The Now button text in the timeselector component</note>
-        <note priority="1" from="meaning">kendo.timeselector.now</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">14052,14056</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="9a9ce231f0396e40adcfa80bfa76e546e0085be0" datatype="html">
-        <source>Restore</source>
-        <target>Restore</target>
-        <note priority="1" from="description">The title of the restore button</note>
-        <note priority="1" from="meaning">kendo.window.restoreTitle</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dialog/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">2223,2227</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="9b2bd34897f127e69e5f02f64692fca98a5a7572" datatype="html">
-        <source>Close</source>
-        <target>Close</target>
-        <note priority="1" from="description">The title of the close button</note>
-        <note priority="1" from="meaning">kendo.dialog.closeTitle</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dialog/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">238,240</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dialog/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">711,715</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="9ef9db9ac4951523d519b989d223f507878c612d" datatype="html">
-        <source>Today</source>
-        <target>TODAY</target>
-        <note priority="1" from="description">The label for the today button in the calendar header</note>
-        <note priority="1" from="meaning">kendo.datetimepicker.today</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">8688,8692</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="a1cd4a8f359a22151d7e73f2887fbb2967cd389a" datatype="html">
-        <source>Optional</source>
-        <target>Optional</target>
-        <note priority="1" from="description">The text for the optional segment of a Label component</note>
-        <note priority="1" from="meaning">kendo.label.optional</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-label/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">782,784</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="a55944f9de69e7cc86b91200fe96f980a947d704" datatype="html">
-        <source>Increase value</source>
-        <target>Increase value</target>
-        <note priority="1" from="description">The label for the **Increment** button in the DateInput</note>
-        <note priority="1" from="meaning">kendo.dateinput.increment</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">5326,5331</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="aae9caf1dbc689cd51ace5c265cbf45552a580b6" datatype="html">
-        <source>Clear value</source>
-        <target>Clear value</target>
-        <note priority="1" from="description">The title for the clear button.</note>
-        <note priority="1" from="meaning">kendo.colorpicker.clearButton</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">8819,8824</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="accountCheckErrorMsgLong" datatype="html">
-        <source><x id="PH" equiv-text="firstLine"/>.
-Im System kann weitergearbeitet werden, aber ein fehlerhafter Buchhaltungscheck
-hat Auswirkungen auf die Ordnungsmäßigkeit der Buchhaltung und kann zu
-Problemen bei einer Betriebsprüfung führen.
-Sie sollten daher die Fehler zeitnah klären und beheben.
-
-Bitte mailen Sie dazu einfach das Protokoll des fehlerhaften Buchhaltungschecks
-an Ihren zuständigen Support-Ansprechpartner.
-
-Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/company/services/company-info.service.ts</context>
-          <context context-type="linenumber">225</context>
-        </context-group>
-      </trans-unit>
+  <file source-language="de" target-language="engb" datatype="plaintext" original="ng2.template">
+    <body>      
       <trans-unit id="accountCheckErrorMsgShort" datatype="html">
         <source>Der letzte Buchhaltungscheck für Mandant <x id="PH" equiv-text="company.formattedId"/> vom <x id="PH_1" equiv-text="checkDate"/> war fehlerhaft</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/company/services/company-info.service.ts</context>
-          <context context-type="linenumber">221</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="ad3087c7bf139a41bf6a7fc454f4e857492c9d22" datatype="html">
-        <source>Set opacity</source>
-        <target>Set opacity</target>
-        <note priority="1" from="description">The title for the opacity slider handle.</note>
-        <note priority="1" from="meaning">kendo.colorgradient.opacitySliderHandle</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">8214,8217</context>
+          <context context-type="linenumber">207</context>
         </context-group>
       </trans-unit>
       <trans-unit id="additionalClients" datatype="html">
         <source>Weitere <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Mandanten<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/></source>
-        <target>Additional <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Clients<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/></target>
+        <target state="new">Additional <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>Clients<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/company/components/company-sidebar/company-sidebar.component.html</context>
-          <context context-type="linenumber">62,63</context>
+          <context context-type="linenumber">53,55</context>
         </context-group>
       </trans-unit>
       <trans-unit id="allSubsequentProcessSteps" datatype="html">
@@ -740,47 +22,7 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>and all subsequent process steps</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/services/user-confirmation-message.service.ts</context>
-          <context context-type="linenumber">54</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="b24bedd31916ff8439cd7e3c46cbdabea3409dd1" datatype="html">
-        <source>Navigate to previous view</source>
-        <target>Navigate to previous view</target>
-        <note priority="1" from="description">The title of the previous button in the Classic calendar</note>
-        <note priority="1" from="meaning">kendo.datepicker.prevButtonTitle</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">6412,6417</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="b4b1e5ac55f0330f6c4e32b866ae4339ad969978" datatype="html">
-        <source>Set time</source>
-        <target>Set time</target>
-        <note priority="1" from="description">The label for the Accept button in the timeselector component</note>
-        <note priority="1" from="meaning">kendo.timeselector.acceptLabel</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">14008,14012</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="b5507b240a829a596159da3600ea1c73810d8708" datatype="html">
-        <source>NO DATA FOUND</source>
-        <target>No data found</target>
-        <note priority="1" from="description">The text displayed in the popup when there are no items</note>
-        <note priority="1" from="meaning">kendo.dropdowntree.noDataText</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dropdowns/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">9049,9054</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="ba26795ab9f4c21d66b17549ba854a96fcdac1f9" datatype="html">
-        <source>Cancel</source>
-        <target>Cancel</target>
-        <note priority="1" from="description">The label for the Cancel button in the datetimepicker component</note>
-        <note priority="1" from="meaning">kendo.datetimepicker.cancelLabel</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">8639,8643</context>
+          <context context-type="linenumber">45</context>
         </context-group>
       </trans-unit>
       <trans-unit id="back" datatype="html">
@@ -788,77 +30,7 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Back</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/components/sidebar-content-container/sidebar-content-container.component.html</context>
-          <context context-type="linenumber">14</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="bb50cb526949482fc976fd868573ab283580ee69" datatype="html">
-        <source>Close</source>
-        <target>Close</target>
-        <note priority="1" from="description">The title of the close button</note>
-        <note priority="1" from="meaning">kendo.window.closeTitle</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dialog/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">2210,2214</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="bbc99bb74ae75a503bd813aad0c7253d3553e923" datatype="html">
-        <source>Now</source>
-        <target>Now</target>
-        <note priority="1" from="description">The Now button text in the timepicker component</note>
-        <note priority="1" from="meaning">kendo.timepicker.now</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">7451,7454</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="c237cef31a55d762ecfdcac701d283313f30bbfc" datatype="html">
-        <source>Today</source>
-        <target>Today</target>
-        <note priority="1" from="description">The label for the today button in the calendar header</note>
-        <note priority="1" from="meaning">kendo.multiviewcalendar.today</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">10026,10030</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="c8af34428eb25c8f689f0c19a9300394b07b5be3" datatype="html">
-        <source>Today</source>
-        <target>Today</target>
-        <note priority="1" from="description">The label for the today button in the calendar header</note>
-        <note priority="1" from="meaning">kendo.datepicker.today</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">6371,6375</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="c8f1ad22547f56cec39eb563a9a1bfe5a85cc14a" datatype="html">
-        <source>Blue</source>
-        <target>Blue</target>
-        <note priority="1" from="description">The placeholder for the blue color input.</note>
-        <note priority="1" from="meaning">kendo.colorpicker.blueInputPlaceholder</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">8887,8888</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="cbea4571cca81ad9767a6b29f0287d1f3f6372dc" datatype="html">
-        <source>Set</source>
-        <target>Set</target>
-        <note priority="1" from="description">The label for the Accept button in the datetimepicker component</note>
-        <note priority="1" from="meaning">kendo.datetimepicker.acceptLabel</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">8608,8611</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="cd8c0952c72306cccf0973c8fd1957ef9da1f569" datatype="html">
-        <source>Navigate to next view</source>
-        <target>Navigate to next view</target>
-        <note priority="1" from="description">The title of the next button in the Classic calendar</note>
-        <note priority="1" from="meaning">kendo.calendar.nextButtonTitle</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">3793,3797</context>
+          <context context-type="linenumber">14,17</context>
         </context-group>
       </trans-unit>
       <trans-unit id="chooseProcessStep" datatype="html">
@@ -866,7 +38,7 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Choose a process step</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blade/breadcrumb-tab-strip/breadcrumb-tab-strip.component.html</context>
-          <context context-type="linenumber">66</context>
+          <context context-type="linenumber">64,67</context>
         </context-group>
       </trans-unit>
       <trans-unit id="clientChangeNotPossible" datatype="html">
@@ -874,7 +46,7 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Change of client not possible. The client <x id="PH" equiv-text="companyId"/> does not exist anymore or permissions are missing.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/workspace/ux-client/services/workcontext-tab.service.ts</context>
-          <context context-type="linenumber">228</context>
+          <context context-type="linenumber">220,218</context>
         </context-group>
       </trans-unit>
       <trans-unit id="clients" datatype="html">
@@ -882,11 +54,11 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Clients</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/company/components/company-sidebar/company-sidebar-filter/company-sidebar-searchinput/company-sidebar-searchinput.component.html</context>
-          <context context-type="linenumber">3</context>
+          <context context-type="linenumber">3,5</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/company/components/company-sidebar/company-sidebar.component.html</context>
-          <context context-type="linenumber">42</context>
+          <context context-type="linenumber">33,37</context>
         </context-group>
       </trans-unit>
       <trans-unit id="clientVersion" datatype="html">
@@ -894,11 +66,11 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Client Version: <x id="INTERPOLATION" equiv-text="{{uxClientVer$ | async}}"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/header/components/support-info/support-info.component.html</context>
-          <context context-type="linenumber">3</context>
+          <context context-type="linenumber">3,4</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/workspace/ux-client/components/ux-client/ux-client.component.html</context>
-          <context context-type="linenumber">118</context>
+          <context context-type="linenumber">118,119</context>
         </context-group>
       </trans-unit>
       <trans-unit id="close" datatype="html">
@@ -906,19 +78,19 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Close</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blade/breadcrumb-tab-strip/breadcrumb-tab-strip.component.html</context>
-          <context context-type="linenumber">37</context>
+          <context context-type="linenumber">33,37</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blade/breadcrumb-tab-strip/breadcrumb-tab-strip.component.html</context>
-          <context context-type="linenumber">100</context>
+          <context context-type="linenumber">97,101</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/components/sidebar-content-container/sidebar-content-container.component.html</context>
-          <context context-type="linenumber">25</context>
+          <context context-type="linenumber">25,29</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/workspace/ux-client/components/ux-client/ux-client.component.html</context>
-          <context context-type="linenumber">121</context>
+          <context context-type="linenumber">121,125</context>
         </context-group>
       </trans-unit>
       <trans-unit id="closeAllTabs" datatype="html">
@@ -934,7 +106,7 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Do you really want to close all tabs?</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/workspace/company/services/usecase-tab.service.ts</context>
-          <context context-type="linenumber">188</context>
+          <context context-type="linenumber">186</context>
         </context-group>
       </trans-unit>
       <trans-unit id="closeApplication" datatype="html">
@@ -942,7 +114,7 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Close application</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/services/history/history.service.ts</context>
-          <context context-type="linenumber">127</context>
+          <context context-type="linenumber">125</context>
         </context-group>
       </trans-unit>
       <trans-unit id="closeApplicationQuestion" datatype="html">
@@ -950,7 +122,7 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Do you really want to exit the application?</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/services/history/history.service.ts</context>
-          <context context-type="linenumber">128</context>
+          <context context-type="linenumber">126</context>
         </context-group>
       </trans-unit>
       <trans-unit id="closeOtherTabs" datatype="html">
@@ -966,7 +138,7 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Do you really want to close other tabs?</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/workspace/company/services/usecase-tab.service.ts</context>
-          <context context-type="linenumber">188</context>
+          <context context-type="linenumber">186</context>
         </context-group>
       </trans-unit>
       <trans-unit id="closeProcessStep" datatype="html">
@@ -974,7 +146,7 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Close process step</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blade/blade-chain/blade-chain.component.ts</context>
-          <context context-type="linenumber">254</context>
+          <context context-type="linenumber">205,204</context>
         </context-group>
       </trans-unit>
       <trans-unit id="closeProcessStepQuestion" datatype="html">
@@ -982,7 +154,7 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Do you really want to close the process step?</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blade/blade-chain/blade-chain.component.ts</context>
-          <context context-type="linenumber">257</context>
+          <context context-type="linenumber">207,204</context>
         </context-group>
       </trans-unit>
       <trans-unit id="closeSavedTabs" datatype="html">
@@ -993,36 +165,28 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
           <context context-type="linenumber">51</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="closeTab" datatype="html">
+        <source>Registerkarte schließen</source>
+        <target>Close tab</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/workspace/company/services/usecase-tab.service.ts</context>
+          <context context-type="linenumber">143,141</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="closeTabs" datatype="html">
         <source>Registerkarten schließen</source>
         <target>Close tabs</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/workspace/company/services/usecase-tab.service.ts</context>
-          <context context-type="linenumber">184</context>
+          <context context-type="linenumber">182,181</context>
         </context-group>
       </trans-unit>
       <trans-unit id="closeThisTabQuestion" datatype="html">
         <source>Möchten Sie die Registerkarte wirklich schließen?</source>
         <target>Do you really want to close the tab?</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">src/app/blade/blade/blade.component.ts</context>
-          <context context-type="linenumber">652</context>
-        </context-group>
-        <context-group purpose="location">
           <context context-type="sourcefile">src/app/workspace/company/services/usecase-tab.service.ts</context>
-          <context context-type="linenumber">149</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="commonWorkContext" datatype="html">
-        <source>Mandantenübergreifender Arbeitskontext</source>
-        <target state="new">Mandantenübergreifender Arbeitskontext</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/company/components/company-card-small/company-card-small.component.html</context>
-          <context context-type="linenumber">6</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/company/components/company-card/company-card.component.html</context>
-          <context context-type="linenumber">11</context>
+          <context context-type="linenumber">147</context>
         </context-group>
       </trans-unit>
       <trans-unit id="connectErrorM1" datatype="html">
@@ -1030,7 +194,7 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Error connecting to the server (M1).</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app-startup-service.ts</context>
-          <context context-type="linenumber">222</context>
+          <context context-type="linenumber">233</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ctrlSpace" datatype="html">
@@ -1038,37 +202,15 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Ctrl+Space</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/header/components/header/header.component.html</context>
-          <context context-type="linenumber">32</context>
+          <context context-type="linenumber">39</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="d6af522570cc1aff06104cee4b7780d6835e01d1" datatype="html">
-        <source>Drag</source>
-        <target>Drag</target>
-        <note priority="1" from="description">The title of the **End** drag handle of the Slider.</note>
-        <note priority="1" from="meaning">kendo.rangeslider.dragHandleEnd</note>
+      <trans-unit id="dataprotection" datatype="html">
+        <source>Datenschutz</source>
+        <target>Data protection</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">1787,1789</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="d6b1dd6fb7530bd600b430042425d10b22163d1f" datatype="html">
-        <source>Optional</source>
-        <target>Optional</target>
-        <note priority="1" from="description">The text for the optional segment of a FloatingLabel component</note>
-        <note priority="1" from="meaning">kendo.floatinglabel.optional</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-label/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">584,586</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="de53b3f74f2d4a81b5c3f54c0ac1269cb017bd4f" datatype="html">
-        <source>Close</source>
-        <target>Close</target>
-        <note priority="1" from="description">The title of the close button</note>
-        <note priority="1" from="meaning">kendo.tooltip.closeTitle</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-tooltip/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">315,319</context>
+          <context context-type="sourcefile">src/app/user/components/user-profile-menu/user-profile-menu.component.ts</context>
+          <context context-type="linenumber">84</context>
         </context-group>
       </trans-unit>
       <trans-unit id="deviatingReferenceDate" datatype="html">
@@ -1083,44 +225,28 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
           <context context-type="linenumber">13</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="df1a696f318275aa934e27850920889d494c2740" datatype="html">
-        <source>Select now</source>
-        <target>Now</target>
-        <note priority="1" from="description">The label for the Now button in the timepicker component</note>
-        <note priority="1" from="meaning">kendo.timepicker.nowLabel</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">7468,7471</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="df4751834075bf970c77d0da2c960b4e19a6b0dd" datatype="html">
-        <source>Decrease value</source>
-        <target>Decrease value</target>
-        <note priority="1" from="description">The title for the **Decrement** button in the NumericTextBox</note>
-        <note priority="1" from="meaning">kendo.numerictextbox.decrement</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">3811,3814</context>
-        </context-group>
-      </trans-unit>
       <trans-unit id="discardUnsavedChanges" datatype="html">
         <source>Alle ungespeicherten Änderungen werden verworfen.</source>
         <target>All unsaved changes will be discarded.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blade/blade-chain/blade-chain.component.ts</context>
-          <context context-type="linenumber">256</context>
+          <context context-type="linenumber">240</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/blade/blade-chain/blade-chain.component.ts</context>
+          <context context-type="linenumber">255</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blade/blade/blade.component.ts</context>
-          <context context-type="linenumber">653</context>
+          <context context-type="linenumber">886</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/workspace/company/services/usecase-tab.service.ts</context>
-          <context context-type="linenumber">147</context>
+          <context context-type="linenumber">145</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/workspace/company/services/usecase-tab.service.ts</context>
-          <context context-type="linenumber">186</context>
+          <context context-type="linenumber">184</context>
         </context-group>
       </trans-unit>
       <trans-unit id="dockProcessSteps" datatype="html">
@@ -1128,47 +254,7 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Dock process steps</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blade/breadcrumb-tab-strip/breadcrumb-tab-strip.component.html</context>
-          <context context-type="linenumber">49</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="e6edd360fd0d3c873c0d94a3aecd3c407d31da5a" datatype="html">
-        <source>Clear</source>
-        <target>Clear</target>
-        <note priority="1" from="description">The title for the **Clear** button in the TextBox.</note>
-        <note priority="1" from="meaning">kendo.textbox.clear</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">6193,6195</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="e783e2af4828224b846fa92148ea1cc52b21bb13" datatype="html">
-        <source>Navigate to previous view</source>
-        <target>Navigate to previous view</target>
-        <note priority="1" from="description">The label for the previous button in the Multiview calendar</note>
-        <note priority="1" from="meaning">kendo.multiviewcalendar.prevButtonTitle</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">10039,10043</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="e9b2b760a6916040e7520a9a2926d65de175944d" datatype="html">
-        <source>Time</source>
-        <target>Time</target>
-        <note priority="1" from="description">The Time tab text in the datetimepicker popup header</note>
-        <note priority="1" from="meaning">kendo.datetimepicker.timeTab</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">8557,8561</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="ec8e6ab816ff2b3686ad6594068d26e3c72e49d3" datatype="html">
-        <source>Red</source>
-        <target>Red</target>
-        <note priority="1" from="description">The placeholder for the red color input.</note>
-        <note priority="1" from="meaning">kendo.colorgradient.redInputPlaceholder</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">8239,8243</context>
+          <context context-type="linenumber">46,48</context>
         </context-group>
       </trans-unit>
       <trans-unit id="enhancements" datatype="html">
@@ -1179,20 +265,12 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
           <context context-type="linenumber">77</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="dataprotection" datatype="html">
-        <source>Datenschutz</source>
-        <target>Data protection</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/user/components/user-profile-menu/user-profile-menu.component.ts</context>
-          <context context-type="linenumber">84</context>
-        </context-group>
-      </trans-unit>
       <trans-unit id="errorLoadingInitialData" datatype="html">
         <source>Fehler beim Laden von initialen Daten.</source>
         <target>Error reading initial data.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app-startup-service.ts</context>
-          <context context-type="linenumber">238</context>
+          <context context-type="linenumber">249</context>
         </context-group>
       </trans-unit>
       <trans-unit id="errorReadingClientData" datatype="html">
@@ -1200,7 +278,15 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Error reading client data.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app-startup-service.ts</context>
-          <context context-type="linenumber">230</context>
+          <context context-type="linenumber">241</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="errorReadingCompanyFavourites" datatype="html">
+        <source>Fehler beim Lesen der Mandanten-Favoriten.</source>
+        <target>Error reading company favorites.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app-startup-service.ts</context>
+          <context context-type="linenumber">245</context>
         </context-group>
       </trans-unit>
       <trans-unit id="errorReadingUserData" datatype="html">
@@ -1208,7 +294,7 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Error reading user data.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app-startup-service.ts</context>
-          <context context-type="linenumber">226</context>
+          <context context-type="linenumber">237</context>
         </context-group>
       </trans-unit>
       <trans-unit id="errorRetrievingDataSessionExpired" datatype="html">
@@ -1216,47 +302,7 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Error retrieving data. Your session has expired. Please check the status of your application server and log in again.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/workspace/ux-client/services/ux-client.service.ts</context>
-          <context context-type="linenumber">207</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="f07b6e271e4cb957c512029298715c8f4970eca8" datatype="html">
-        <source>Blue</source>
-        <target>Blue</target>
-        <note priority="1" from="description">The placeholder for the blue color input.</note>
-        <note priority="1" from="meaning">kendo.colorgradient.blueInputPlaceholder</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">8268,8272</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="f2c196786ed2d3ecb2369750c36aac9a4053fb30" datatype="html">
-        <source>Toggle time list</source>
-        <target>Toggle time list</target>
-        <note priority="1" from="description">The label for the toggle button in the timepicker component</note>
-        <note priority="1" from="meaning">kendo.timepicker.toggle</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">7482,7486</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="f6c28c2d80dbe993c4b33f4dc4010364f41cc2ae" datatype="html">
-        <source>Toggle calendar</source>
-        <target>Toggle calendar</target>
-        <note priority="1" from="description">The title of the toggle button in the datepicker component</note>
-        <note priority="1" from="meaning">kendo.datepicker.toggle</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">6391,6396</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="f99cf5ed2ae05c7d1df8dc97f56176a4934c8db9" datatype="html">
-        <source>clear</source>
-        <target>clear</target>
-        <note priority="1" from="description">The title of the clear button</note>
-        <note priority="1" from="meaning">kendo.multiselecttree.clearTitle</note>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dropdowns/dist/fesm2015/index.js</context>
-          <context context-type="linenumber">10416,10420</context>
+          <context context-type="linenumber">204</context>
         </context-group>
       </trans-unit>
       <trans-unit id="favourites" datatype="html">
@@ -1264,7 +310,7 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Favourites</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/company/components/company-sidebar/company-sidebar.component.html</context>
-          <context context-type="linenumber">52</context>
+          <context context-type="linenumber">43,46</context>
         </context-group>
       </trans-unit>
       <trans-unit id="findOisPostingsAccountsCostAccountingObjects" datatype="html">
@@ -1292,7 +338,7 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/header/components/mobile-menu/mobile-menu-sidebar-content/mobile-menu-sidebar-content.component.html</context>
-          <context context-type="linenumber">17</context>
+          <context context-type="linenumber">17,20</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/header/services/help.service.ts</context>
@@ -1316,11 +362,11 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/header/components/mobile-menu/mobile-menu-sidebar-content/mobile-menu-sidebar-content.component.html</context>
-          <context context-type="linenumber">20</context>
+          <context context-type="linenumber">20,23</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/header/components/mobile-menu/mobile-menu-sidebar-content/mobile-menu-sidebar-content.component.ts</context>
-          <context context-type="linenumber">92</context>
+          <context context-type="linenumber">90,88</context>
         </context-group>
       </trans-unit>
       <trans-unit id="licenceNumber" datatype="html">
@@ -1328,7 +374,7 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Licence number: <x id="INTERPOLATION" equiv-text="{{licenceNumber}}"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/header/components/support-info/support-info.component.html</context>
-          <context context-type="linenumber">4</context>
+          <context context-type="linenumber">4,6</context>
         </context-group>
       </trans-unit>
       <trans-unit id="licenceScope" datatype="html">
@@ -1336,7 +382,7 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Licence scope</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/workspace/ux-client/components/ux-client/ux-client.component.html</context>
-          <context context-type="linenumber">113</context>
+          <context context-type="linenumber">113,116</context>
         </context-group>
       </trans-unit>
       <trans-unit id="licenceStatus" datatype="html">
@@ -1344,15 +390,27 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Licence status</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/workspace/ux-client/components/banner-areal-message/banner-areal-message.component.ts</context>
-          <context context-type="linenumber">93</context>
+          <context context-type="linenumber">91</context>
         </context-group>
       </trans-unit>
       <trans-unit id="linkAsNewProcessStepCloseOtherProcessStepsWarning" datatype="html">
-        <source>Wenn Sie diesen Link als neuen Prozessschritt in dieser Registerkarte öffnen, werden die folgenden Prozessschritte geschlossen:</source>
-        <target>This closes the following process steps:</target>
+        <source>Wenn Sie diesen Prozessschritt schliessen, werden die folgenden Prozessschritte geschlossen:</source>
+        <target state="new">This closes the following process steps:</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">src/app/shared/services/user-confirmation-message.service.ts</context>
-          <context context-type="linenumber">50</context>
+          <context context-type="sourcefile">src/app/blade/blade-chain/blade-chain.component.ts</context>
+          <context context-type="linenumber">206,204</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/blade/blade/blade.component.ts</context>
+          <context context-type="linenumber">894,893</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="linkAsNewWindowCloseOtherProcessStepsWarning" datatype="html">
+        <source>Wenn Sie diesen Prozessschritt in einem neuen Fenster öffnen, werden die folgenden Prozessschritte geschlossen:</source>
+        <target state="new">Wenn Sie diesen Prozessschritt in einem neuen Fenster öffnen, werden die folgenden Prozessschritte geschlossen:</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/blade/blade/blade.component.ts</context>
+          <context context-type="linenumber">1006,1004</context>
         </context-group>
       </trans-unit>
       <trans-unit id="logOff" datatype="html">
@@ -1360,15 +418,15 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Log off</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/header/components/mobile-menu/mobile-menu-sidebar-content/mobile-menu-sidebar-content.component.html</context>
-          <context context-type="linenumber">27</context>
+          <context context-type="linenumber">27,31</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/header/components/profile-settings/profile-settings.component.html</context>
-          <context context-type="linenumber">5</context>
+          <context context-type="linenumber">5,8</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/workspace/ux-client/services/ux-client.service.ts</context>
-          <context context-type="linenumber">209</context>
+          <context context-type="linenumber">206</context>
         </context-group>
       </trans-unit>
       <trans-unit id="menu" datatype="html">
@@ -1384,19 +442,19 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Message</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/workspace/company/components/company/company.component.ts</context>
-          <context context-type="linenumber">155</context>
+          <context context-type="linenumber">155,154</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/workspace/ux-client/services/ux-client.service.ts</context>
-          <context context-type="linenumber">206</context>
+          <context context-type="linenumber">203</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/workspace/ux-client/services/ux-client.service.ts</context>
-          <context context-type="linenumber">221</context>
+          <context context-type="linenumber">218</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/workspace/ux-client/services/workcontext-tab.service.ts</context>
-          <context context-type="linenumber">227</context>
+          <context context-type="linenumber">219,218</context>
         </context-group>
       </trans-unit>
       <trans-unit id="modifyReferenceDate" datatype="html">
@@ -1436,15 +494,15 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Navigator</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/header/components/mobile-menu/mobile-menu-sidebar-content/mobile-menu-sidebar-content.component.html</context>
-          <context context-type="linenumber">14</context>
+          <context context-type="linenumber">14,17</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/header/components/mobile-menu/mobile-menu-sidebar-content/mobile-menu-sidebar-content.component.ts</context>
-          <context context-type="linenumber">59</context>
+          <context context-type="linenumber">57,55</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/header/components/navigator/navigator.component.ts</context>
-          <context context-type="linenumber">27</context>
+          <context context-type="linenumber">26</context>
         </context-group>
       </trans-unit>
       <trans-unit id="navigatorCtrlSpace" datatype="html">
@@ -1455,32 +513,20 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
           <context context-type="linenumber">2</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="nextProcessStep" datatype="html">
-        <source>Nächster Prozessschritt</source>
-        <target>Next process step</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/blade/breadcrumb-tab-strip/breadcrumb-tab-strip.component.html</context>
-          <context context-type="linenumber">111</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/blade/breadcrumb-tab-strip/breadcrumb-tab-strip.component.html</context>
-          <context context-type="linenumber">112</context>
-        </context-group>
-      </trans-unit>
       <trans-unit id="no" datatype="html">
         <source>Nein</source>
         <target>No</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/services/user-confirmation-message.service.ts</context>
-          <context context-type="linenumber">44</context>
+          <context context-type="linenumber">61</context>
         </context-group>
       </trans-unit>
       <trans-unit id="noClientsFoundAdjustFilter" datatype="html">
         <source>Es wurden keine Mandanten gefunden. Bitte passen Sie den Filter an.</source>
-        <target state="new">No clients were found. Please adjust the filter.</target>
+        <target>No clients were found. Please adjust the filter.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/company/components/company-sidebar/company-sidebar.component.html</context>
-          <context context-type="linenumber">37,39</context>
+          <context context-type="linenumber">28,32</context>
         </context-group>
       </trans-unit>
       <trans-unit id="noFavouritesFound" datatype="html">
@@ -1488,7 +534,7 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>No favourites were found.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/company/components/company-sidebar/company-sidebar.component.html</context>
-          <context context-type="linenumber">50</context>
+          <context context-type="linenumber">41,43</context>
         </context-group>
       </trans-unit>
       <trans-unit id="noOtherClientsFound" datatype="html">
@@ -1496,7 +542,7 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>No other clients were found.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/company/components/company-sidebar/company-sidebar.component.html</context>
-          <context context-type="linenumber">60</context>
+          <context context-type="linenumber">51,53</context>
         </context-group>
       </trans-unit>
       <trans-unit id="numberOpenTabs" datatype="html">
@@ -1504,7 +550,7 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Number of open tabs</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/company/components/company-card/company-card.component.html</context>
-          <context context-type="linenumber">32</context>
+          <context context-type="linenumber">26</context>
         </context-group>
       </trans-unit>
       <trans-unit id="openInNewTab" datatype="html">
@@ -1512,7 +558,7 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Open on new tab</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/services/user-confirmation-message.service.ts</context>
-          <context context-type="linenumber">43</context>
+          <context context-type="linenumber">60</context>
         </context-group>
       </trans-unit>
       <trans-unit id="openLinkInNewProcessStepThisTabQuestion" datatype="html">
@@ -1520,7 +566,15 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Do you want to open the link in a new tab process step?</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blade/blade/blade.component.ts</context>
-          <context context-type="linenumber">881</context>
+          <context context-type="linenumber">888</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/blade/blade/blade.component.ts</context>
+          <context context-type="linenumber">1005,1004</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/blade/blade/blade.component.ts</context>
+          <context context-type="linenumber">1007,1004</context>
         </context-group>
       </trans-unit>
       <trans-unit id="openProcessStep" datatype="html">
@@ -1528,7 +582,7 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Open process step</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blade/blade/blade.component.ts</context>
-          <context context-type="linenumber">880</context>
+          <context context-type="linenumber">892,891</context>
         </context-group>
       </trans-unit>
       <trans-unit id="openTabNewBrowserTab" datatype="html">
@@ -1539,32 +593,12 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
           <context context-type="linenumber">58</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="overallCompanies" datatype="html">
-        <source>Mandantenübergreifend</source>
-        <target state="new">Mandantenübergreifend</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/company/services/company-info.service.ts</context>
-          <context context-type="linenumber">139</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="previousProcessStep" datatype="html">
-        <source>Vorheriger Prozessschritt</source>
-        <target>Previous process step</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/blade/breadcrumb-tab-strip/breadcrumb-tab-strip.component.html</context>
-          <context context-type="linenumber">8</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/blade/breadcrumb-tab-strip/breadcrumb-tab-strip.component.html</context>
-          <context context-type="linenumber">9</context>
-        </context-group>
-      </trans-unit>
       <trans-unit id="programInformation" datatype="html">
         <source>Programminformation</source>
         <target>Program information</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/workspace/ux-client/components/ux-client/ux-client.component.html</context>
-          <context context-type="linenumber">116</context>
+          <context context-type="linenumber">116,118</context>
         </context-group>
       </trans-unit>
       <trans-unit id="referenceDate" datatype="html">
@@ -1580,7 +614,15 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Remove docking</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blade/breadcrumb-tab-strip/breadcrumb-tab-strip.component.html</context>
-          <context context-type="linenumber">59</context>
+          <context context-type="linenumber">57,61</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="saveAllTabs" datatype="html">
+        <source>Geöffnete Registerkarten speichern</source>
+        <target>Save opened tabs</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tab/components/tab-strip/tab-strip.component.html</context>
+          <context context-type="linenumber">35</context>
         </context-group>
       </trans-unit>
       <trans-unit id="search" datatype="html">
@@ -1588,15 +630,19 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Search</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/header/components/mobile-menu/mobile-menu-sidebar-content/mobile-menu-sidebar-content.component.html</context>
-          <context context-type="linenumber">11</context>
+          <context context-type="linenumber">11,14</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/header/components/mobile-menu/mobile-menu-sidebar-content/mobile-menu-sidebar-content.component.ts</context>
-          <context context-type="linenumber">74</context>
+          <context context-type="linenumber">72,69</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/header/components/search/search.component.html</context>
           <context context-type="linenumber">2</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header/services/search.service.ts</context>
+          <context context-type="linenumber">29</context>
         </context-group>
       </trans-unit>
       <trans-unit id="searchClients" datatype="html">
@@ -1604,7 +650,7 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Search for clients</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/company/components/company-sidebar/company-sidebar-filter/company-sidebar-searchinput/company-sidebar-searchinput.component.html</context>
-          <context context-type="linenumber">5</context>
+          <context context-type="linenumber">5,6</context>
         </context-group>
       </trans-unit>
       <trans-unit id="searching" datatype="html">
@@ -1620,7 +666,7 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Server version: <x id="INTERPOLATION" equiv-text="{{versionLabel}}"/> (<x id="INTERPOLATION_1" equiv-text="{{buildVersionLabel}}"/>)</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/header/components/support-info/support-info.component.html</context>
-          <context context-type="linenumber">2</context>
+          <context context-type="linenumber">2,3</context>
         </context-group>
       </trans-unit>
       <trans-unit id="start" datatype="html">
@@ -1628,7 +674,15 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Start</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/workspace/company/components/company/company.component.ts</context>
-          <context context-type="linenumber">354</context>
+          <context context-type="linenumber">349,344</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="successfullySavedTabs" datatype="html">
+        <source>Die Registerkarten wurden erfolgreich gespeichert.</source>
+        <target state="new">Die Registerkarten wurden erfolgreich gespeichert.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tab/components/tab-strip/tab-strip.component.ts</context>
+          <context context-type="linenumber">247</context>
         </context-group>
       </trans-unit>
       <trans-unit id="supportInformation" datatype="html">
@@ -1640,7 +694,7 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/workspace/ux-client/components/ux-client/ux-client.component.html</context>
-          <context context-type="linenumber">110</context>
+          <context context-type="linenumber">110,111</context>
         </context-group>
       </trans-unit>
       <trans-unit id="teamViewer" datatype="html">
@@ -1671,12 +725,36 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
           <context context-type="linenumber">4</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="ui-bannerAreal-closeBanner" datatype="html">
+        <source>Schließen</source>
+        <target>Close</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/diamant/ui/banner-areal/components/banner-areal/banner-areal.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ui-buttonMaximize-maximize" datatype="html">
+        <source>Maximieren</source>
+        <target state="new">Maximise</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/diamant/ui/buttons/button-maximize/button-maximize.component.ts</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ui-buttonMaximize-minimize" datatype="html">
+        <source>Minimieren</source>
+        <target state="new">Minimise</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/diamant/ui/buttons/button-maximize/button-maximize.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="ui-http-couldNotFindResource" datatype="html">
         <source>Keine Ressource gefunden!</source>
         <target>Could not find resource!</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/diamant/ui/http/services/restapi-client.service.ts</context>
-          <context context-type="linenumber">422</context>
+          <context context-type="linenumber">420</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ui-http-internalServerError" datatype="html">
@@ -1684,7 +762,7 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Internal server error!</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/diamant/ui/http/services/restapi-client.service.ts</context>
-          <context context-type="linenumber">425</context>
+          <context context-type="linenumber">423</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ui-http-serviceUnavailable" datatype="html">
@@ -1692,7 +770,7 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Service unavailable!</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/diamant/ui/http/services/restapi-client.service.ts</context>
-          <context context-type="linenumber">428</context>
+          <context context-type="linenumber">426</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ui-http-sessionExpiredLogin" datatype="html">
@@ -1700,11 +778,11 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Your session has expired. Please log in again.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/diamant/ui/http/services/restapi-client.service.ts</context>
-          <context context-type="linenumber">409</context>
+          <context context-type="linenumber">407</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/diamant/ui/http/services/restapi-client.service.ts</context>
-          <context context-type="linenumber">415</context>
+          <context context-type="linenumber">413</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ui-http-sessionExpiredLoginRefresh" datatype="html">
@@ -1712,11 +790,11 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Your session has expired. You must log in again. If this does not work, you must close your browser first. Choose OK to confirm.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/diamant/ui/http/services/odata-api-client.service.ts</context>
-          <context context-type="linenumber">204</context>
+          <context context-type="linenumber">202</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/diamant/ui/http/services/restapi-client.service.ts</context>
-          <context context-type="linenumber">370</context>
+          <context context-type="linenumber">368</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ui-masterdata-accept" datatype="html">
@@ -1732,7 +810,7 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Apply selection</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/diamant/ui/masterdata/components/hierarchy-selection/hierarchy-selection.component.ts</context>
-          <context context-type="linenumber">130</context>
+          <context context-type="linenumber">129</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ui-masterdata-businessUnit" datatype="html">
@@ -1740,7 +818,7 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Business unit</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/diamant/ui/masterdata/components/businessunit-selection/businessunit-selection.component.ts</context>
-          <context context-type="linenumber">35</context>
+          <context context-type="linenumber">34</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ui-masterdata-client" datatype="html">
@@ -1780,7 +858,7 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>The hierarchy node selection is unavailable to you. This may be because:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/diamant/ui/masterdata/components/hierarchy-selection/hierarchy-selection.component.ts</context>
-          <context context-type="linenumber">103</context>
+          <context context-type="linenumber">102</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ui-masterdata-hierarchy" datatype="html">
@@ -1788,7 +866,7 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Hierarchy</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/diamant/ui/masterdata/components/hierarchy-selection/hierarchy-selection.component.ts</context>
-          <context context-type="linenumber">127</context>
+          <context context-type="linenumber">126</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ui-masterdata-invalidDimensionType" datatype="html">
@@ -1796,7 +874,7 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Invalid dimension type</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/diamant/ui/dimension-masterdata/services/dimension-masterdata.service.ts</context>
-          <context context-type="linenumber">50</context>
+          <context context-type="linenumber">48</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ui-masterdata-noHierachyConfigured" datatype="html">
@@ -1804,7 +882,7 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>No hierarchy is configured.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/diamant/ui/masterdata/components/hierarchy-selection/hierarchy-selection.component.ts</context>
-          <context context-type="linenumber">104</context>
+          <context context-type="linenumber">103</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ui-masterdata-noNecessaryAuthorisations" datatype="html">
@@ -1812,7 +890,7 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>You do not have the necessary authorisations.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/diamant/ui/masterdata/components/hierarchy-selection/hierarchy-selection.component.ts</context>
-          <context context-type="linenumber">104</context>
+          <context context-type="linenumber">103</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ui-masterdata-performSearchToRestrictList" datatype="html">
@@ -1868,7 +946,7 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>There are too many hierarchy elements.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/diamant/ui/masterdata/components/hierarchy-selection/hierarchy-selection.component.ts</context>
-          <context context-type="linenumber">423</context>
+          <context context-type="linenumber">422</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ui-messageArea-destination" datatype="html">
@@ -1928,11 +1006,11 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Error</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/diamant/ui/message-box/services/message-box.service.ts</context>
-          <context context-type="linenumber">148,147</context>
+          <context context-type="linenumber">146,145</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/diamant/ui/message-box/services/message-box.service.ts</context>
-          <context context-type="linenumber">179,178</context>
+          <context context-type="linenumber">177,176</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ui-messageBox-info" datatype="html">
@@ -1940,7 +1018,7 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Info</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/diamant/ui/message-box/services/message-box.service.ts</context>
-          <context context-type="linenumber">119,118</context>
+          <context context-type="linenumber">117,116</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ui-messageBox-message" datatype="html">
@@ -1956,7 +1034,7 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Messages</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/diamant/ui/message-box/services/message-box.service.ts</context>
-          <context context-type="linenumber">227,226</context>
+          <context context-type="linenumber">225,224</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ui-messageBox-name" datatype="html">
@@ -1980,7 +1058,7 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Success</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/diamant/ui/message-box/services/message-box.service.ts</context>
-          <context context-type="linenumber">168,167</context>
+          <context context-type="linenumber">166,165</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ui-messageBox-warning" datatype="html">
@@ -1988,7 +1066,7 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Caution</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/diamant/ui/message-box/services/message-box.service.ts</context>
-          <context context-type="linenumber">133,132</context>
+          <context context-type="linenumber">131,130</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ui-pickupSelection-displayAllData" datatype="html">
@@ -2024,15 +1102,15 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Unsaved changes</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blade/breadcrumb-tab-strip/breadcrumb-tab-strip.component.html</context>
-          <context context-type="linenumber">26</context>
+          <context context-type="linenumber">16,19</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blade/breadcrumb-tab-strip/breadcrumb-tab-strip.component.html</context>
-          <context context-type="linenumber">89</context>
+          <context context-type="linenumber">86,88</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/company/components/company-sidebar/company-sidebar-list/company-sidebar-list.component.html</context>
-          <context context-type="linenumber">19</context>
+          <context context-type="linenumber">19,22</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/tab/components/tab-dropdown/tab-dropdown.component.html</context>
@@ -2048,15 +1126,15 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>User menu</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/header/components/mobile-menu/mobile-menu-sidebar-content/mobile-menu-sidebar-content.component.html</context>
-          <context context-type="linenumber">3</context>
+          <context context-type="linenumber">3,6</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/header/components/mobile-menu/mobile-menu-sidebar-content/mobile-menu-sidebar-content.component.html</context>
-          <context context-type="linenumber">23</context>
+          <context context-type="linenumber">23,27</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/header/components/mobile-menu/mobile-menu-sidebar-content/mobile-menu-sidebar-content.component.ts</context>
-          <context context-type="linenumber">83</context>
+          <context context-type="linenumber">81,79</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user/components/user-info/user-info.component.html</context>
@@ -2064,7 +1142,7 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user/components/user-info/user-info.component.ts</context>
-          <context context-type="linenumber">44</context>
+          <context context-type="linenumber">42</context>
         </context-group>
       </trans-unit>
       <trans-unit id="userSettings" datatype="html">
@@ -2080,15 +1158,15 @@ Das Protokoll finden Sie unter Abschluss/Buchhaltungscheck.</source>
         <target>Work contexts</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/company/components/company-sidebar/company-sidebar.component.html</context>
-          <context context-type="linenumber">22</context>
+          <context context-type="linenumber">22,26</context>
         </context-group>
       </trans-unit>
       <trans-unit id="yes" datatype="html">
-        <source>Jaha1234</source>
+        <source>Ja</source>
         <target>Yes</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/services/user-confirmation-message.service.ts</context>
-          <context context-type="linenumber">42</context>
+          <context context-type="linenumber">59</context>
         </context-group>
       </trans-unit>
     </body>
