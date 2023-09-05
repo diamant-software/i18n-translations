@@ -1,0 +1,1438 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="de" target-language="fr" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="rightsLink" datatype="html">
+        <source>Berechtigungsverwaltung</source>
+        <target state="new">Gestion des droits d’accès</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/creation-success-banner/creation-success-banner.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="creationSuccessMessageTitle" datatype="html">
+        <source>Berechtigungen vergeben</source>
+        <target state="new">Attribuer des droits d’accès</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/creation-success-banner/creation-success-banner.component.ts</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="creationSuccessMessageCaption" datatype="html">
+        <source>Der Benutzer wurde ohne Berechtigungen angelegt. Ordnen Sie dem Benutzer jetzt Rechtegruppen zu, damit er im Rechnungswesen arbeiten kann.</source>
+        <target state="new">L’utilisateur a été créé sans droits d’accès. Veuillez maintenant affecter des groupes de droits à l'utilisateur pour qu'il puisse travailler dans la gestion comptable.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/creation-success-banner/creation-success-banner.component.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="deactivateUserHintTop" datatype="html">
+        <source>Wenn Sie den Benutzer deaktivieren, werden folgende Daten des Benutzers entfernt:</source>
+        <target state="new">Si vous désactivez l’utilisateur, les données suivantes de l’utilisateur seront supprimées :</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/deactivate-user-action/deactivate-user-action.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="emailAddressCaption" datatype="html">
+        <source>E-Mail-Adresse</source>
+        <target state="new">Adresse e-mail</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/deactivate-user-action/deactivate-user-action.component.ts</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="rightsCaption" datatype="html">
+        <source>Berechtigungen</source>
+        <target state="new">Droits d’accès</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/deactivate-user-action/deactivate-user-action.component.ts</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="licenceCaption" datatype="html">
+        <source>Benutzertyp</source>
+        <target state="new">Type d’utilisateur</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/deactivate-user-action/deactivate-user-action.component.ts</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="deactivateUserHintBottom" datatype="html">
+        <source>Das Benutzerkennzeichen bleibt erhalten und dient der Zuordnung der Inhalte im Rechnungswesen. Sie können das Benutzerkennzeichen wiederverwenden.</source>
+        <target state="new">Les codes utilisateurs sont conservés et servent à l’attribution des contenus de la gestion comptable. Vous pouvez réutiliser les codes utilisateurs.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/deactivate-user-action/deactivate-user-action.component.ts</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cancelCaption" datatype="html">
+        <source>Abbrechen</source>
+        <target state="new">Annuler</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/deactivate-user-action/deactivate-user-action.component.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/delete-faulty-user-dialog/delete-faulty-user-dialog.component.ts</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/revoke-invitation-action/revoke-invitation-action.component.ts</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="deactivateUserCaption" datatype="html">
+        <source>Benutzer deaktivieren</source>
+        <target state="new">Désactiver l’utilisateur</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/deactivate-user-action/deactivate-user-action.component.ts</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="deactivateUserAndCloseCaption" datatype="html">
+        <source>Deaktivieren und schließen</source>
+        <target state="new">Désactiver et fermer</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/deactivate-user-action/deactivate-user-action.component.ts</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cannotDeactivateUserCaption" datatype="html">
+        <source>Ein Benutzer kann nicht deaktiviert werden, solange er die Benutzerverwaltung verwenden darf.</source>
+        <target state="new">Un utilisateur ne peut pas être désactivé tant qu’il est autorisé à utiliser la gestion des utilisateurs.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/deactivate-user-action/deactivate-user-action.component.ts</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="deleteFaultyUserHintTop" datatype="html">
+        <source>Wenn Sie den Benutzer löschen, werden die Profildaten des Benutzers entfernt.</source>
+        <target state="new">Si vous supprimez l’utilisateur, les données de profil de l’utilisateur seront supprimées.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/delete-faulty-user-dialog/delete-faulty-user-dialog.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="deleteFaultyUserHintBottom" datatype="html">
+        <source>Sie können diesen Benutzer dann erneut anlegen.</source>
+        <target state="new">Vous pouvez ensuite de nouveau créer cet utilisateur.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/delete-faulty-user-dialog/delete-faulty-user-dialog.component.ts</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="deleteFaultyUserCaption" datatype="html">
+        <source>Benutzer löschen</source>
+        <target state="new">Supprimer l’utilisateur</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/services/delete-faulty-user-dialog.service.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="deleteFaultyUserAndCloseCaption" datatype="html">
+        <source>Löschen und schließen</source>
+        <target state="new">Supprimer et fermer</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/delete-faulty-user-dialog/delete-faulty-user-dialog.component.ts</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="defaultEditUserTitle" datatype="html">
+        <source>bearbeiten</source>
+        <target state="new">éditer</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/edit-user/edit-user.component.ts</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="title" datatype="html">
+        <source>Benutzerverwaltung</source>
+        <target state="new">Gestion des utilisateurs</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/forbidden/forbidden.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/login/login.component.ts</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entries/user-entries.component.ts</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/welcome/welcome.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="forbiddenTitle" datatype="html">
+        <source>Kein Zugriffsrecht für diese Seite</source>
+        <target state="new">Aucun droit d’accès à cette page</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/forbidden/forbidden.component.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="noAccessRightDetails" datatype="html">
+        <source>Sie sind nicht für diese Seite berechtigt.</source>
+        <target state="new">Vous n’êtes pas autorisé(e) à accéder à cette page.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/forbidden/forbidden.component.ts</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="noClientAssignmentDetails" datatype="html">
+        <source>Sie können sich nicht anmelden, da die Zuordnung in Ihrem Identity Provider fehlt.</source>
+        <target state="new">Vous ne pouvez pas vous connecter étant donné que l’attribution est manquante dans votre Identity Provider.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/forbidden/forbidden.component.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="noAccessRightInstruction" datatype="html">
+        <source>Wenn Sie auf diese Seite zugreifen möchten, wenden Sie sich an Ihren Administrator.</source>
+        <target state="new">Si vous souhaitez accéder à cette page, veuillez contacter votre administrateur.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/forbidden/forbidden.component.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="noClientAssignmentInstruction" datatype="html">
+        <source>Wenden Sie sich an Ihren Administrator.</source>
+        <target state="new">Veuillez contacter votre administrateur.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/forbidden/forbidden.component.ts</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="userReCreateCaption" datatype="html">
+        <source>Benutzerkennzeichen wiederverwenden</source>
+        <target state="new">Réutiliser les codes utilisateurs</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/inactive-user/inactive-user.component.ts</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.ts</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="recreateInvitationCaption" datatype="html">
+        <source>Ein Benutzer mit diesem Benutzerkennzeichen existiert bereits. Wenn Sie das Benutzerkennzeichen wiederverwenden, werden alle Inhalte mit dem neuen Benutzer verknüpft.</source>
+        <target state="new">Un utilisateur avec ces codes utilisateurs existe déjà. Si vous réutilisez les codes utilisateurs, tous les contenus seront reliés au nouvel utilisateur.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/inactive-user/inactive-user.component.ts</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="reuseBkzCaption" datatype="html">
+        <source>wiederverwenden</source>
+        <target state="new">réutiliser</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/inactive-user/inactive-user.component.ts</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="saveCaption" datatype="html">
+        <source>Einladung versenden</source>
+        <target state="new">Envoyer une invitation</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/inactive-user/inactive-user.component.ts</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/new-user/new-user.component.ts</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="invitationForCaption" datatype="html">
+        <source>Einladung für</source>
+        <target state="new">Invitation pour</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/invited-user/invited-user.component.ts</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="extentionsPageLink" datatype="html">
+        <source>neue Lizenzen anfordern</source>
+        <target state="new">demander de nouvelles licences</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/licence-info-banner/licence-info-banner.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="noAvailableLicensesCaption" datatype="html">
+        <source>Keine Lizenzplätze verfügbar</source>
+        <target state="new">Aucune place de licence disponible</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/licence-info-banner/licence-info-banner.component.ts</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/services/licence.service.ts</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="licenceDetailInfoMessageTitle" datatype="html">
+        <source>Für den gewählten Benutzertyp '<x id="PH" equiv-text="this.licenceText"/>' sind keine weiteren Lizenzplätze verfügbar.</source>
+        <target state="new">Aucune place de licence supplémentaire n’est disponible pour le type d’utilisateur '<x id="PH" equiv-text="this.licenceText"/>' sélectionné.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/licence-info-banner/licence-info-banner.component.ts</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="loginRequiredTitle" datatype="html">
+        <source>Anmeldung erforderlich</source>
+        <target state="new">Connexion requise</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/login/login.component.ts</context>
+          <context context-type="linenumber">88</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="loginRequiredDetails" datatype="html">
+        <source>Ihre Anmeldung ist abgelaufen. Sie müssen sich erneut anmelden.</source>
+        <target state="new">Votre connexion a expiré. Vous devez vous reconnecter.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/login/login.component.ts</context>
+          <context context-type="linenumber">89</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="loginRequiredButtonText" datatype="html">
+        <source>Zur Anmeldung</source>
+        <target state="new">Accéder à la connexion</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/login/login.component.ts</context>
+          <context context-type="linenumber">90</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="consentRequiredTitle" datatype="html">
+        <source>Zustimmung erforderlich</source>
+        <target state="new">Accord requis</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/login/login.component.ts</context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="consentRequiredDetails" datatype="html">
+        <source>Damit Sie die Benutzerverwaltung nutzen können, müssen Sie dem Zugriff auf Ihr Profil zustimmen.</source>
+        <target state="new">Vous devez accepter l’accès à votre profil afin de pouvoir utiliser la gestion des utilisateurs.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/login/login.component.ts</context>
+          <context context-type="linenumber">95</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="consentRequiredButtonText" datatype="html">
+        <source>Zur Zustimmung</source>
+        <target state="new">Vers l’accord</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/login/login.component.ts</context>
+          <context context-type="linenumber">96</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="mfaRequiredTitle" datatype="html">
+        <source>Multi-Faktor-Authentifizierung erforderlich</source>
+        <target state="new">Authentification à plusieurs facteurs requise</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/login/login.component.ts</context>
+          <context context-type="linenumber">100</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="mfaRequiredDetails" datatype="html">
+        <source>Die Benutzerverwaltung kann nur mit einer Multi-Faktor-Authentifizierung genutzt werden.</source>
+        <target state="new">La gestion des utilisateurs peut uniquement être utilisée avec une authentification à plusieurs facteurs.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/login/login.component.ts</context>
+          <context context-type="linenumber">101</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="mfaRequiredInstruction" datatype="html">
+        <source>Bestätigen Sie Ihre Identität.</source>
+        <target state="new">Confirmez votre identité.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/login/login.component.ts</context>
+          <context context-type="linenumber">102</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="mfaRequiredButtonText" datatype="html">
+        <source>Zur Bestätigung</source>
+        <target state="new">Accéder à la confirmation</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/login/login.component.ts</context>
+          <context context-type="linenumber">103</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="newUserCaption" datatype="html">
+        <source>Neuer Benutzer</source>
+        <target state="new">Nouvel utilisateur</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/new-user/new-user.component.ts</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="unknownSalutationCaption" datatype="html">
+        <source>Unbekannt</source>
+        <target state="new">Inconnu</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/new-user/new-user.component.ts</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entry/user-entry.component.ts</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="reuseBkzMessageTitle" datatype="html">
+        <source>Benutzerkennzeichen bereits vergeben</source>
+        <target state="new">Codes utilisateurs déjà attribués</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/reuse-bkz-banner/reuse-bkz-banner.component.ts</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="reuseBkzMessageCaption" datatype="html">
+        <source>Das Benutzerkennzeichen gehört zu einem inaktiven Benutzer. Sie können das Benutzerkennzeichen wiederverwenden.</source>
+        <target state="new">Les codes utilisateurs appartiennent à un utilisateur inactif. Vous pouvez réutiliser les codes utilisateurs.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/reuse-bkz-banner/reuse-bkz-banner.component.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="reuseBkzLinkCaption" datatype="html">
+        <source>Benutzerkennzeichen wiederverwenden</source>
+        <target state="new">Réutiliser les codes utilisateurs</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/reuse-bkz-banner/reuse-bkz-banner.component.ts</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="revokeInvitationHintTop" datatype="html">
+        <source>Wenn Sie die Einladung zurückziehen, wird der versendete Link ungültig.</source>
+        <target state="new">Si vous retirez l’invitation, le lien envoyé ne sera plus valide.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/revoke-invitation-action/revoke-invitation-action.component.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="revokeInvitationHintBottom" datatype="html">
+        <source>Das Benutzerkennzeichen bleibt erhalten, Sie können es wiederverwenden.</source>
+        <target state="new">Les codes utilisateurs sont conservés, vous pouvez les réutiliser.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/revoke-invitation-action/revoke-invitation-action.component.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="revokeInvitationCaption" datatype="html">
+        <source>Einladung zurückziehen</source>
+        <target state="new">Retirer l’invitation</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/revoke-invitation-action/revoke-invitation-action.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="allUsersFilter" datatype="html">
+        <source>Alle</source>
+        <target state="new">Tous</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entries/user-entries.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="activeUsersFilter" datatype="html">
+        <source>Aktiv</source>
+        <target state="new">Actif</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entries/user-entries.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="inactiveUsersFilter" datatype="html">
+        <source>Inaktiv</source>
+        <target state="new">Inactif</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entries/user-entries.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="invitedUsersFilter" datatype="html">
+        <source>Eingeladen</source>
+        <target state="new">Invité</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entries/user-entries.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="userentries_inviteUser" datatype="html">
+        <source>Benutzer hinzufügen</source>
+        <target state="new">Ajouter un utilisateur</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entries/user-entries.component.html</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="userentries_display_filter" datatype="html">
+        <source>Filter ein-/ausblenden</source>
+        <target state="new">Afficher / masquer le filtre</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entries/user-entries.component.html</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7832220288598509801" datatype="html">
+        <source>Aktualisieren</source>
+        <target state="new">Actualiser</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entries/user-entries.component.html</context>
+          <context context-type="linenumber">70</context>
+        </context-group>
+        <note priority="1" from="description">userentries_reload</note>
+      </trans-unit>
+      <trans-unit id="inactiveCaption" datatype="html">
+        <source>Inaktiv</source>
+        <target state="new">Inactif</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entries/user-entries.component.ts</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="invitedCaption" datatype="html">
+        <source>Eingeladen</source>
+        <target state="new">Invité</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entries/user-entries.component.ts</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="faultyUserBkzMessageCaption" datatype="html">
+        <source>Der Benutzer ist fehlerhaft. Löschen Sie ihn und legen ihn neu an.</source>
+        <target state="new">L’utilisateur est incorrect. Supprimez-le et créez-le à nouveau.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/faulty-user-banner/faulty-user-banner.component.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="unconnectedDiamantUserTooltipCaption" datatype="html">
+        <source>Der Benutzer ist fehlerhaft. Löschen Sie ihn und legen ihn neu an.</source>
+        <target state="new">L’utilisateur est incorrect. Supprimez-le et créez-le à nouveau.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entries/user-entries.component.ts</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="illegalLicenseStateTooltipCaption" datatype="html">
+        <source>Dieser Benutzer muss noch lizenziert werden.</source>
+        <target state="new">Cet utilisateur doit encore recevoir une licence.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entries/user-entries.component.ts</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="discardChangesTitle" datatype="html">
+        <source>Änderungen verwerfen</source>
+        <target state="new">Rejeter les modifications</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="changesLost" datatype="html">
+        <source>Alle ungespeicherten Änderungen gehen verloren.</source>
+        <target state="new">Toutes les modifications non sauvegardées seront perdues.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.html</context>
+          <context context-type="linenumber">5,6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="closeDialogChangesQuestion" datatype="html">
+        <source>Möchten Sie die Änderungen wirklich verwerfen?</source>
+        <target state="new">Souhaitez-vous vraiment rejeter les modifications ?</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.html</context>
+          <context context-type="linenumber">8,9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="no" datatype="html">
+        <source>Nein</source>
+        <target state="new">Non</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="yes" datatype="html">
+        <source>Ja</source>
+        <target state="new">Oui</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="userentryOpenRightManagement" datatype="html">
+        <source>Berechtigungsverwaltung öffnen </source>
+        <target state="new">Ouvrir la gestion des droits d’accès</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.html</context>
+          <context context-type="linenumber">47,48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="userentryOpenLicenceState" datatype="html">
+        <source>Named-User-Lizenzen öffnen </source>
+        <target state="new">Ouvrir les licences d’utilisateurs nommés</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.html</context>
+          <context context-type="linenumber">53,55</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="profileData" datatype="html">
+        <source>Profildaten</source>
+        <target state="new">Données de profil</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.html</context>
+          <context context-type="linenumber">98</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="userentrySalutation" datatype="html">
+        <source>Anrede</source>
+        <target state="new">Formule de politesse</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.html</context>
+          <context context-type="linenumber">140</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="userentryFirstname" datatype="html">
+        <source>Vorname</source>
+        <target state="new">Prénom</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.html</context>
+          <context context-type="linenumber">207</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="userentryLastname" datatype="html">
+        <source>Nachname</source>
+        <target state="new">Nom</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.html</context>
+          <context context-type="linenumber">229</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="userentryEMail" datatype="html">
+        <source>E-Mail-Adresse</source>
+        <target state="new">Adresse e-mail</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/change-email-action/change-email-action.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.html</context>
+          <context context-type="linenumber">256</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="userentryBKZ" datatype="html">
+        <source>Benutzerkennzeichen</source>
+        <target state="new">Codes utilisateurs</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.html</context>
+          <context context-type="linenumber">292</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="userentryAccountData" datatype="html">
+        <source>Accountdaten</source>
+        <target state="new">Données de compte</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.html</context>
+          <context context-type="linenumber">330</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="userentryUsertype" datatype="html">
+        <source>Benutzertyp</source>
+        <target state="new">Type d’utilisateur</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.html</context>
+          <context context-type="linenumber">335</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="userentryLanguage" datatype="html">
+        <source>Sprache</source>
+        <target state="new">Langue</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.html</context>
+          <context context-type="linenumber">357</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="userentryStatus" datatype="html">
+        <source>Status</source>
+        <target state="new">Statut</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.html</context>
+          <context context-type="linenumber">432</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="userentryinvitationExpiration" datatype="html">
+        <source>Ablaufdatum der Einladung</source>
+        <target state="new">Date d’expiration de l’invitation</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.html</context>
+          <context context-type="linenumber">459</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="discardUnsavedSettings" datatype="html">
+        <source> Verwerfen </source>
+        <target state="new">Rejeter </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.html</context>
+          <context context-type="linenumber">499,501</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="newStateCaption" datatype="html">
+        <source>Neu</source>
+        <target state="new">Nouveau</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.ts</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="activeStateCaption" datatype="html">
+        <source>Aktiv</source>
+        <target state="new">Actif</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.ts</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="inactiveStateCaption" datatype="html">
+        <source>Inaktiv</source>
+        <target state="new">Inactif</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.ts</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="invitedStateCaption" datatype="html">
+        <source>Eingeladen</source>
+        <target state="new">Invité</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.ts</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="faultyStateCaption" datatype="html">
+        <source>Fehlerhaft</source>
+        <target state="new">Incorrect</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.ts</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="userRightsButtonCaption" datatype="html">
+        <source>Nach dem erstmaligen Speichern verfügbar.</source>
+        <target state="new">Disponible après le premier enregistrement.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.ts</context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="saveButtonMandatoryFieldsCaption" datatype="html">
+        <source>Alle Pflichtfelder müssen korrekt gefüllt sein.</source>
+        <target state="new">Tous les champs obligatoires doivent être remplis correctement.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.ts</context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="emailFormatTooltipCaption" datatype="html">
+        <source>Geben Sie eine korrekte E-Mail-Adresse ein.</source>
+        <target state="new">Veuillez saisir une adresse e-mail correcte.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/change-email-action/change-email-action.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.ts</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="bkzLengthTooltipCaption" datatype="html">
+        <source>Geben Sie ein ein- bis vierstelliges Benutzerkennzeichen ein.</source>
+        <target state="new">Veuillez saisir des codes utilisateurs comprenant un à quatre caractères.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.ts</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="bkzSUPTooltipCaption" datatype="html">
+        <source>SUP wird für interne Zwecke verwendet.</source>
+        <target state="new">SUP utilisé pour buts internes.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.ts</context>
+          <context context-type="linenumber">41</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="lastnameTooltipCaption" datatype="html">
+        <source>Geben Sie einen Nachnamen ein.</source>
+        <target state="new">Saisissez un nom.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.ts</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="firstnameTooltipCaption" datatype="html">
+        <source>Geben Sie einen Vornamen ein.</source>
+        <target state="new">Saisissez un prénom.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.ts</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="changeCurrentUserAdminFlagErrorCaption" datatype="html">
+        <source>Sie können sich nicht selbst Rechte entziehen.</source>
+        <target state="new">Vous ne pouvez pas vous retirer des droits.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.ts</context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="changeCurrentUserAdminFlagOkCaption" datatype="html">
+        <source>Darf Benutzerverwaltung verwenden</source>
+        <target state="new">peut utiliser la gestion des utilisateurs</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.ts</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="userlicenceTooltipReadonlyCaption" datatype="html">
+        <source>Benutzertyp über Schaltfläche „Named-User-Lizenzen öffnen“ ändern.</source>
+        <target state="new">Modifier le type d’utilisateur via le bouton « Ouvrir les licences d’utilisateurs nommés ».</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.ts</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="stateTooltipInvitedCaption" datatype="html">
+        <source>Der Benutzer wurde zum Rechnungswesen eingeladen. Die Daten können erst bearbeitet werden, wenn die Einladung angenommen wurde.</source>
+        <target state="new">L’utilisateur a été invité à la gestion comptable. Les données peuvent être éditées seulement lorsque l’invitation a été acceptée.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/invited-user-banner/invited-user-banner.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="bkzErrorTooltipCaption" datatype="html">
+        <source>Benutzerkennzeichen wiederverwenden.</source>
+        <target state="new">Réutiliser les codes utilisateurs.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.ts</context>
+          <context context-type="linenumber">49</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="bkzPlaceholderCaption" datatype="html">
+        <source> 1 bis 4 Zeichen</source>
+        <target state="new">1 à 4 caractères</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.ts</context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="defaultSaveCaption" datatype="html">
+        <source>Speichern</source>
+        <target state="new">Enregistrer</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.ts</context>
+          <context context-type="linenumber">52</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="illegalLicenseStatusCaption" datatype="html">
+        <source>Dieser Benutzer muss noch lizenziert werden.</source>
+        <target state="new">Cet utilisateur doit encore recevoir une licence.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.ts</context>
+          <context context-type="linenumber">58</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="legalLicenseStatusCaption" datatype="html">
+        <source>Dieser Benutzer ist lizenziert.</source>
+        <target state="new">Cet utilisateur dispose d’une licence.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.ts</context>
+          <context context-type="linenumber">59</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="orderNewLicence" datatype="html">
+        <source>neue Lizenzen anfordern</source>
+        <target state="new">demander de nouvelles licences</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.ts</context>
+          <context context-type="linenumber">61</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="welcomeTitleText" datatype="html">
+        <source>Willkommen bei Diamant/4</source>
+        <target state="new">Bienvenue dans Diamant/4</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/welcome/welcome.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="standardUserText" datatype="html">
+        <source>Sie haben Ihr Konto erfolgreich erstellt und können sich ab sofort am Diamant/4 Rechnungswesen anmelden.</source>
+        <target state="new">Vous avez bien créé votre compte et vous pouvez vous connecter dès maintenant à la gestion comptable Diamant/4.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/welcome/welcome.component.ts</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="processUserText" datatype="html">
+        <source>Sie haben Ihr Konto erfolgreich erstellt und können ab sofort Genehmigungsaufgaben im Diamant/4 Rechnungswesen bearbeiten.</source>
+        <target state="new">Vous avez bien créé votre compte et vous pouvez éditer dès maintenant des tâches d’autorisation de la gestion comptable Diamant/4.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/welcome/welcome.component.ts</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="loginLinkCaption" datatype="html">
+        <source>Zum Anmelden</source>
+        <target state="new">Accéder à la connexion</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/welcome/welcome.component.ts</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="invitationAlreadyUsedText" datatype="html">
+        <source>Sie haben Ihr Konto bereits erstellt oder die Einladung existiert nicht mehr.</source>
+        <target state="new">Vous avez déjà créé votre compte ou l’invitation n’existe plus.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/welcome/welcome.component.ts</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="missingOrganizationIdText" datatype="html">
+        <source>Der von Ihnen verwendete Link ist ungültig.</source>
+        <target state="new">Le lien que vous utilisez n’est pas valide.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/welcome/welcome.component.ts</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="userId" datatype="html">
+        <source>Benutzerkennzeichen</source>
+        <target state="new">Codes utilisateurs</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/models/columnSettings.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="firstname" datatype="html">
+        <source>Vorname</source>
+        <target state="new">Prénom</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/models/columnSettings.ts</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="lastname" datatype="html">
+        <source>Nachname</source>
+        <target state="new">Nom</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/models/columnSettings.ts</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="emailAddress" datatype="html">
+        <source>E-Mail-Adresse</source>
+        <target state="new">Adresse e-mail</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/models/columnSettings.ts</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="salutation" datatype="html">
+        <source>Anrede</source>
+        <target state="new">Formule de politesse</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/models/columnSettings.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="licence" datatype="html">
+        <source>Benutzertyp</source>
+        <target state="new">Type d’utilisateur</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/models/columnSettings.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="isAdminTitle" datatype="html">
+        <source>BV verwenden</source>
+        <target state="new">Utiliser la gestion des utilisateurs</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/models/columnSettings.ts</context>
+          <context context-type="linenumber">66</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="isAdminTooltip" datatype="html">
+        <source>Darf Benutzerverwaltung verwenden</source>
+        <target state="new">peut utiliser la gestion des utilisateurs</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/models/columnSettings.ts</context>
+          <context context-type="linenumber">71</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="serverErrorInvalidData" datatype="html">
+        <source>Es wurden ungültige Daten eingegeben. Überprüfen Sie Ihre Eingaben und versuchen Sie es erneut.</source>
+        <target state="new">Des données non valides ont été saisies. Vérifiez votre saisie et réessayez.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/models/problem-details-map.ts</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="serverErrorSupForbidden" datatype="html">
+        <source>Das Benutzerkennzeichen SUP wird für interne Zwecke verwendet.</source>
+        <target state="new">Le codes utilisateurs SUP sont utilisés pour des buts internes.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/models/problem-details-map.ts</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="serverErrorBkzIsReserved" datatype="html">
+        <source>Das Benutzerkennzeichen ist reserviert und kann nicht verwendet werden.</source>
+        <target state="new">Les codes utilisateurs sont réservés et ne peuvent pas être utilisés.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/models/problem-details-map.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="serverErrorDiamantUserExists" datatype="html">
+        <source>Das gewählte Benutzerkennzeichen wird bereits verwendet.</source>
+        <target state="new">Les codes utilisateurs sélectionnés sont déjà utilisés.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/models/problem-details-map.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="serverErrorInactiveDiamantUserExists" datatype="html">
+        <source>Ein inaktiver Benutzer mit dem gewählten Benutzerkennzeichen existiert bereits.</source>
+        <target state="new">Un utilisateur inactif avec les codes utilisateurs sélectionnés existe déjà.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/models/problem-details-map.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="serverErrorUserExists" datatype="html">
+        <source>Die gewählte E-Mail-Adresse wird bereits verwendet.</source>
+        <target state="new">L’adresse e-mail sélectionnée est déjà utilisée.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/models/problem-details-map.ts</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="serverErrorInvalidOrganizationClaim" datatype="html">
+        <source>Ungültige Organisation.</source>
+        <target state="new">Organisation non valide.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/models/problem-details-map.ts</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="serverErrorInvalidConfiguration" datatype="html">
+        <source>Ungültige Konfiguration. Umgebungsvariable fehlt.</source>
+        <target state="new">Configuration non valide. La variable d’environnement manque.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/models/problem-details-map.ts</context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="serverErrorServiceUnavailable" datatype="html">
+        <source>Es ist ein interner Fehler aufgetreten. Versuchen Sie es später erneut.</source>
+        <target state="new">Une erreur interne s’est produite. Veuillez réessayer ultérieurement.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/models/problem-details-map.ts</context>
+          <context context-type="linenumber">41</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="serverErrorUnableToDeactivateAdminUser" datatype="html">
+        <source>Ein Benutzer kann nicht deaktiviert werden, solange er die Benutzerverwaltung verwenden darf.</source>
+        <target state="new">Un utilisateur ne peut pas être désactivé tant qu’il est autorisé à utiliser la gestion des utilisateurs.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/models/problem-details-map.ts</context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="serverErrorBkzAlreadyUsed" datatype="html">
+        <source>Das gewählte Benutzerkennzeichen ist bereits mit einem anderen Benutzer verknüpft.</source>
+        <target state="new">Les codes utilisateurs sélectionnés sont déjà reliés à un autre utilisateur.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/models/problem-details-map.ts</context>
+          <context context-type="linenumber">49</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="serverErrorNoMatchingUser" datatype="html">
+        <source>Es gibt keinen Benutzer, der mit der angegebenen E-Mail-Adresse übereinstimmt.</source>
+        <target state="new">Il n’y a pas d’utilisateur correspondant à l’adresse e-mail indiquée.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/models/problem-details-map.ts</context>
+          <context context-type="linenumber">54</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="serverErrorInviteeExists" datatype="html">
+        <source>Es existiert bereits ein eingeladener Benutzer mit der angegebenen E-Mail-Adresse.</source>
+        <target state="new">Un utilisateur invité avec l’adresse e-mail indiquée existe déjà.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/models/problem-details-map.ts</context>
+          <context context-type="linenumber">59</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="serverErrorUnableToDepriveOwnAdminRole" datatype="html">
+        <source>Sie können sich nicht selbst das Recht entziehen, die Benutzerverwaltung zu verwenden.</source>
+        <target state="new">Vous ne pouvez pas vous retirer le droit d’utiliser la gestion des utilisateurs.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/models/problem-details-map.ts</context>
+          <context context-type="linenumber">64</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="serverErrorNoMatchingInvitee" datatype="html">
+        <source>Es gibt keinen eingeladenen Benutzer, der mit der angegebenen E-Mail-Adresse übereinstimmt.</source>
+        <target state="new">Il n’y a pas d’utilisateur invité correspondant à l’adresse e-mail indiquée.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/models/problem-details-map.ts</context>
+          <context context-type="linenumber">68</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="serverErrorNoMatchingDiamantUser" datatype="html">
+        <source>Es gibt keinen Rechnungswesen-Benutzer mit diesem Benutzerkennzeichen.</source>
+        <target state="new">Il n’existe aucun utilisateur de la gestion comptable avec ces codes utilisateurs.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/models/problem-details-map.ts</context>
+          <context context-type="linenumber">73</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="serverErrorNoLicenseProvided" datatype="html">
+        <source>Die Lizenz für den Benutzer konnte nicht geladen werden. Versuchen Sie es später erneut.</source>
+        <target state="new">Impossible de charger la licence pour l’utilisateur. Veuillez réessayer ultérieurement.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/models/problem-details-map.ts</context>
+          <context context-type="linenumber">78</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="serverErrorUserInfoNotFound" datatype="html">
+        <source>Keine Benutzerinformationen gefunden.</source>
+        <target state="new">Aucune information utilisateur trouvée.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/models/problem-details-map.ts</context>
+          <context context-type="linenumber">90</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="serverErrorDiamantAccessDenied" datatype="html">
+        <source>Zugriff verweigert</source>
+        <target state="new">Accès refusé</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/models/problem-details-map.ts</context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="serverErrorMissingDiamantPermisson" datatype="html">
+        <source>Dem Integration-Bot-User fehlen die erforderlichen Berechtigungen.</source>
+        <target state="new">L'utilisateur Integration Bot ne dispose pas des droits d’accès nécessaires.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/models/problem-details-map.ts</context>
+          <context context-type="linenumber">98</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="serverErrorRequestTimeout" datatype="html">
+        <source>Der Aufruf hat zu lange gedauert und wurde abgewiesen. Versuchen Sie es bitte später erneut.</source>
+        <target state="new">La consultation a duré trop longtemps et a été refusée. Veuillez réessayer ultérieurement.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/models/problem-details-map.ts</context>
+          <context context-type="linenumber">102</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="serverErrorUserNotFaulty" datatype="html">
+        <source>Nur ein fehlerhafter Benutzer kann gelöscht werden.</source>
+        <target state="new">Seul un utilisateur incorrect peut être supprimé.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/models/problem-details-map.ts</context>
+          <context context-type="linenumber">106</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="salutationMale" datatype="html">
+        <source>Herr</source>
+        <target state="new">Monsieur</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/models/salutations.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="salutationFemale" datatype="html">
+        <source>Frau</source>
+        <target state="new">Madame</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/models/salutations.ts</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="salutationNeutral" datatype="html">
+        <source>Neutrale Anrede</source>
+        <target state="new">Formule de politesse neutre</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/models/salutations.ts</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="salutationUnknown" datatype="html">
+        <source>Keine Angabe</source>
+        <target state="new">Aucune indication</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/models/salutations.ts</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="languageGermanCaption" datatype="html">
+        <source>Deutsch</source>
+        <target state="new">Allemand</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/services/language.service.ts</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="languageEnglishCaption" datatype="html">
+        <source>English</source>
+        <target state="new">Anglais</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/services/language.service.ts</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="languageFrenchCaption" datatype="html">
+        <source>Français</source>
+        <target state="new">Français</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/services/language.service.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="licenseCREWE" datatype="html">
+        <source>Concurrent User</source>
+        <target state="new">Utilisateur simultané</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/services/licence.service.ts</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="licenseBOTUSER" datatype="html">
+        <source>Integration Bot</source>
+        <target state="new">Integration Bot</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/services/licence.service.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="licenseKBB" datatype="html">
+        <source>Kassenbuch+</source>
+        <target state="new">Livre de caisse+</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/services/licence.service.ts</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="licenseNREWE" datatype="html">
+        <source>Named User</source>
+        <target state="new">Utilisateur nommé</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/services/licence.service.ts</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="licenseBWLESE" datatype="html">
+        <source>Nur-Lese-Benutzer</source>
+        <target state="new">Utilisateur lecture seule</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/services/licence.service.ts</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="licensePROZESS" datatype="html">
+        <source>Prozess Benutzer</source>
+        <target state="new">Utilisateurs du processus</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/services/licence.service.ts</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="licensePRUEF" datatype="html">
+        <source>Prüferarbeitsplatz+</source>
+        <target state="new">Poste de travail contrôleur+</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/services/licence.service.ts</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="numberOfAvailableLicensesCaption" datatype="html">
+        <source>
+          <x id="PH" equiv-text="numberOfAvailableLicenses"/> von <x id="PH_1" equiv-text="numberOfLicenses"/> Lizenzplätzen sind verfügbar</source>
+        <target state="new">
+          <x id="PH" equiv-text="numberOfAvailableLicenses"/> de <x id="PH_1" equiv-text="numberOfLicenses"/> places de licence sont disponibles</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/services/licence.service.ts</context>
+          <context context-type="linenumber">86</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="unknownErrorMessageText" datatype="html">
+        <source>Unbekannter Fehler.</source>
+        <target state="new">Erreur inconnue.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/services/problem-details-mapping.service.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="createSuccessCaption" datatype="html">
+        <source>Benutzer eingeladen.</source>
+        <target state="new">Utilisateur invité.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/services/user-data.service.ts</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="saveSuccessCaption" datatype="html">
+        <source>Benutzer gespeichert.</source>
+        <target state="new">Utilisateur enregistré.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/services/user-data.service.ts</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="deactivateSuccessCaption" datatype="html">
+        <source>Benutzer deaktiviert.</source>
+        <target state="new">Utilisateur désactivé.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/services/user-data.service.ts</context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="deleteSuccessCaption" datatype="html">
+        <source>Benutzer gelöscht.</source>
+        <target state="new">Utilisateur supprimé.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/services/user-data.service.ts</context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="invitationRevokedSuccessCaption" datatype="html">
+        <source>Einladung zurückgezogen.</source>
+        <target state="new">Invitation retirée.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/services/user-data.service.ts</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="loadDataErrorMessage" datatype="html">
+        <source>Fehler beim Laden der Daten. Versuchen Sie es später erneut.</source>
+        <target state="new">Erreur lors du chargement des données. Veuillez réessayer ultérieurement.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/services/user-data.service.ts</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="changeEmailChangesDialog" datatype="html">
+        <source> E-Mail-Adresse ändern </source>
+        <target state="new">Modifier l’adresse e-mail</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/change-email-action/change-email-action.component.html</context>
+          <context context-type="linenumber">3,5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="verifyEmail" datatype="html">
+        <source> Der Benutzer muss die neue E-Mail-Adresse verifizieren. </source>
+        <target state="new">L’utilisateur doit confirmer la nouvelle adresse e-mail (procédure de vérification).</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/change-email-action/change-email-action.component.html</context>
+          <context context-type="linenumber">6,8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="abort" datatype="html">
+        <source> Abbrechen </source>
+        <target state="new">Annuler </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/change-email-action/change-email-action.component.html</context>
+          <context context-type="linenumber">37,39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="changeEmailAddressAndClose" datatype="html">
+        <source> Ändern und schließen </source>
+        <target state="new">Modifier et fermer</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/change-email-action/change-email-action.component.html</context>
+          <context context-type="linenumber">47,49</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="faultyUserMessageTitle" datatype="html">
+        <source>Benutzer fehlerhaft</source>
+        <target state="new">Utilisateur incorrect</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/faulty-user-banner/faulty-user-banner.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="faultyUserLinkCaption" datatype="html">
+        <source>Benutzer löschen</source>
+        <target state="new">Supprimer l’utilisateur</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/faulty-user-banner/faulty-user-banner.component.ts</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="stateTooltipInvitedTitle" datatype="html">
+        <source>Benutzer eingeladen</source>
+        <target state="new">Utilisateur invité</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/invited-user-banner/invited-user-banner.component.ts</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="faultyDiamantUserTooltipCaption" datatype="html">
+        <source>Der Benutzer ist fehlerhaft. Wenden Sie sich an Ihren Supportpartner.</source>
+        <target state="new">L’utilisateur est incorrect. Veuillez contacter votre interlocuteur du service d’assistance.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entries/user-entries.component.ts</context>
+          <context context-type="linenumber">41</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="faultyBkzText" datatype="html">
+        <source>Benutzerkennzeichen * fehlt </source>
+        <target state="new">Le code utilisateur * manque.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entries/user-entries.component.ts</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="changeEmailButtonTooltip" datatype="html">
+        <source>Sie können die eigene E-Mail-Adresse nicht ändern. </source>
+        <target state="new">Vous ne pouvez pas modifier votre propre adresse e-mail.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.ts</context>
+          <context context-type="linenumber">62</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="serverErrorEmailExists" datatype="html">
+        <source>Es existiert bereits ein Benutzer mit der angegebenen E-Mail-Adresse.</source>
+        <target state="new">Un utilisateur avec l’adresse e-mail indiquée existe déjà.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/models/problem-details-map.ts</context>
+          <context context-type="linenumber">82</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="handleUserEmailAddressChangedSuccessCaption" datatype="html">
+        <source>E-Mail-Adresse geändert.</source>
+        <target state="new">Adresse e-mail modifiée.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/services/user-data.service.ts</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="serverExternalIdentityProviderUsed" datatype="html">
+        <source>Bei Verwendung eines externen Identitätsanbieters ist es nicht möglich, die E-Mail-Adresse zu ändern.</source>
+        <target state="new">En cas d’utilisation d’un fournisseur d’identité externe, il n’est pas possible de modifier l’adresse e-mail.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/models/problem-details-map.ts</context>
+          <context context-type="linenumber">86</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
