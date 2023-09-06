@@ -77,6 +77,14 @@
           <context context-type="linenumber">20</context>
         </context-group>
         <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/federated-synchronization-banner/federated-synchronization-banner.component.ts</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/reset-mfa-action/reset-mfa-action.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+        <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/revoke-invitation-action/revoke-invitation-action.component.ts</context>
           <context context-type="linenumber">15</context>
         </context-group>
@@ -137,14 +145,6 @@
           <context context-type="linenumber">21</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="defaultEditUserTitle" datatype="html">
-        <source>bearbeiten</source>
-        <target state="new">bearbeiten</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/user-management/components/edit-user/edit-user.component.ts</context>
-          <context context-type="linenumber">34</context>
-        </context-group>
-      </trans-unit>
       <trans-unit id="title" datatype="html">
         <source>Benutzerverwaltung</source>
         <target state="new">Benutzerverwaltung</target>
@@ -158,7 +158,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/user-entries/user-entries.component.ts</context>
-          <context context-type="linenumber">35</context>
+          <context context-type="linenumber">36</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/welcome/welcome.component.ts</context>
@@ -214,7 +214,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.ts</context>
-          <context context-type="linenumber">56</context>
+          <context context-type="linenumber">57</context>
         </context-group>
       </trans-unit>
       <trans-unit id="recreateInvitationCaption" datatype="html">
@@ -226,11 +226,12 @@
         </context-group>
       </trans-unit>
       <trans-unit id="reuseBkzCaption" datatype="html">
-        <source>wiederverwenden</source>
+        <source>
+          <x id="PH" equiv-text="this.user.bkz" /> wiederverwenden</source>
         <target state="new">wiederverwenden</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/inactive-user/inactive-user.component.ts</context>
-          <context context-type="linenumber">31</context>
+          <context context-type="linenumber">50</context>
         </context-group>
       </trans-unit>
       <trans-unit id="saveCaption" datatype="html">
@@ -238,7 +239,7 @@
         <target state="new">Einladung versenden</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/inactive-user/inactive-user.component.ts</context>
-          <context context-type="linenumber">32</context>
+          <context context-type="linenumber">31</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/new-user/new-user.component.ts</context>
@@ -270,18 +271,12 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/services/licence.service.ts</context>
-          <context context-type="linenumber">21</context>
+          <context context-type="linenumber">22</context>
         </context-group>
       </trans-unit>
       <trans-unit id="licenceDetailInfoMessageTitle" datatype="html">
         <source>Für den gewählten Benutzertyp '<x id="PH" equiv-text="this.licenceText" />' sind keine weiteren Lizenzplätze verfügbar.</source>
-        <target state="new">
-
-
-
-
-
-Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind keine weiteren Lizenzplätze verfügbar.</target>
+        <target state="new">Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind keine weiteren Lizenzplätze verfügbar.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/licence-info-banner/licence-info-banner.component.ts</context>
           <context context-type="linenumber">25</context>
@@ -301,14 +296,6 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/login/login.component.ts</context>
           <context context-type="linenumber">89</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="loginRequiredButtonText" datatype="html">
-        <source>Zur Anmeldung</source>
-        <target state="new">Zur Anmeldung</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/user-management/components/login/login.component.ts</context>
-          <context context-type="linenumber">90</context>
         </context-group>
       </trans-unit>
       <trans-unit id="consentRequiredTitle" datatype="html">
@@ -384,7 +371,7 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/user-entry/user-entry.component.ts</context>
-          <context context-type="linenumber">21</context>
+          <context context-type="linenumber">22</context>
         </context-group>
       </trans-unit>
       <trans-unit id="reuseBkzMessageTitle" datatype="html">
@@ -440,7 +427,7 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">Alle</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/user-entries/user-entries.component.html</context>
-          <context context-type="linenumber">7</context>
+          <context context-type="linenumber">17</context>
         </context-group>
       </trans-unit>
       <trans-unit id="activeUsersFilter" datatype="html">
@@ -448,7 +435,7 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">Aktiv</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/user-entries/user-entries.component.html</context>
-          <context context-type="linenumber">10</context>
+          <context context-type="linenumber">20</context>
         </context-group>
       </trans-unit>
       <trans-unit id="inactiveUsersFilter" datatype="html">
@@ -456,7 +443,7 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">Inaktiv</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/user-entries/user-entries.component.html</context>
-          <context context-type="linenumber">13</context>
+          <context context-type="linenumber">23</context>
         </context-group>
       </trans-unit>
       <trans-unit id="invitedUsersFilter" datatype="html">
@@ -464,7 +451,7 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">Eingeladen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/user-entries/user-entries.component.html</context>
-          <context context-type="linenumber">16</context>
+          <context context-type="linenumber">26</context>
         </context-group>
       </trans-unit>
       <trans-unit id="userentries_inviteUser" datatype="html">
@@ -472,7 +459,7 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">Benutzer hinzufügen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/user-entries/user-entries.component.html</context>
-          <context context-type="linenumber">47</context>
+          <context context-type="linenumber">57</context>
         </context-group>
       </trans-unit>
       <trans-unit id="userentries_display_filter" datatype="html">
@@ -480,7 +467,7 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">Filter ein-/ausblenden</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/user-entries/user-entries.component.html</context>
-          <context context-type="linenumber">56</context>
+          <context context-type="linenumber">66</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7832220288598509801" datatype="html">
@@ -488,7 +475,7 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">Aktualisieren</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/user-entries/user-entries.component.html</context>
-          <context context-type="linenumber">70</context>
+          <context context-type="linenumber">80</context>
         </context-group>
         <note priority="1" from="description">userentries_reload</note>
       </trans-unit>
@@ -497,7 +484,7 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">Inaktiv</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/user-entries/user-entries.component.ts</context>
-          <context context-type="linenumber">38</context>
+          <context context-type="linenumber">39</context>
         </context-group>
       </trans-unit>
       <trans-unit id="invitedCaption" datatype="html">
@@ -505,7 +492,7 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">Eingeladen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/user-entries/user-entries.component.ts</context>
-          <context context-type="linenumber">39</context>
+          <context context-type="linenumber">40</context>
         </context-group>
       </trans-unit>
       <trans-unit id="faultyUserBkzMessageCaption" datatype="html">
@@ -521,7 +508,7 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">Der Benutzer ist fehlerhaft. Löschen Sie ihn und legen ihn neu an.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/user-entries/user-entries.component.ts</context>
-          <context context-type="linenumber">40</context>
+          <context context-type="linenumber">41</context>
         </context-group>
       </trans-unit>
       <trans-unit id="illegalLicenseStateTooltipCaption" datatype="html">
@@ -529,7 +516,7 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">Dieser Benutzer muss noch lizenziert werden.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/user-entries/user-entries.component.ts</context>
-          <context context-type="linenumber">42</context>
+          <context context-type="linenumber">44</context>
         </context-group>
       </trans-unit>
       <trans-unit id="discardChangesTitle" datatype="html">
@@ -573,19 +560,19 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         </context-group>
       </trans-unit>
       <trans-unit id="userentryOpenRightManagement" datatype="html">
-        <source>Berechtigungsverwaltung öffnen </source>
+        <source>Berechtigungsverwaltung öffnen</source>
         <target state="new">Berechtigungsverwaltung öffnen </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.html</context>
-          <context context-type="linenumber">47,48</context>
+          <context context-type="linenumber">47</context>
         </context-group>
       </trans-unit>
       <trans-unit id="userentryOpenLicenceState" datatype="html">
-        <source>Named-User-Lizenzen öffnen </source>
+        <source>Named-User-Lizenzen öffnen</source>
         <target state="new">Named-User-Lizenzen öffnen </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.html</context>
-          <context context-type="linenumber">53,55</context>
+          <context context-type="linenumber">52</context>
         </context-group>
       </trans-unit>
       <trans-unit id="profileData" datatype="html">
@@ -593,7 +580,7 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">Profildaten</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.html</context>
-          <context context-type="linenumber">98</context>
+          <context context-type="linenumber">95</context>
         </context-group>
       </trans-unit>
       <trans-unit id="userentrySalutation" datatype="html">
@@ -601,7 +588,7 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">Anrede</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.html</context>
-          <context context-type="linenumber">140</context>
+          <context context-type="linenumber">145</context>
         </context-group>
       </trans-unit>
       <trans-unit id="userentryFirstname" datatype="html">
@@ -609,7 +596,7 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">Vorname</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.html</context>
-          <context context-type="linenumber">207</context>
+          <context context-type="linenumber">212</context>
         </context-group>
       </trans-unit>
       <trans-unit id="userentryLastname" datatype="html">
@@ -617,7 +604,7 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">Nachname</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.html</context>
-          <context context-type="linenumber">229</context>
+          <context context-type="linenumber">234</context>
         </context-group>
       </trans-unit>
       <trans-unit id="userentryEMail" datatype="html">
@@ -625,11 +612,11 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">E-Mail-Adresse</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/change-email-action/change-email-action.component.html</context>
-          <context context-type="linenumber">11</context>
+          <context context-type="linenumber">7</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.html</context>
-          <context context-type="linenumber">256</context>
+          <context context-type="linenumber">261</context>
         </context-group>
       </trans-unit>
       <trans-unit id="userentryBKZ" datatype="html">
@@ -637,7 +624,7 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">Benutzerkennzeichen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.html</context>
-          <context context-type="linenumber">292</context>
+          <context context-type="linenumber">297</context>
         </context-group>
       </trans-unit>
       <trans-unit id="userentryAccountData" datatype="html">
@@ -645,7 +632,7 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">Accountdaten</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.html</context>
-          <context context-type="linenumber">330</context>
+          <context context-type="linenumber">335</context>
         </context-group>
       </trans-unit>
       <trans-unit id="userentryUsertype" datatype="html">
@@ -653,7 +640,7 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">Benutzertyp</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.html</context>
-          <context context-type="linenumber">335</context>
+          <context context-type="linenumber">340</context>
         </context-group>
       </trans-unit>
       <trans-unit id="userentryLanguage" datatype="html">
@@ -661,7 +648,7 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">Sprache</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.html</context>
-          <context context-type="linenumber">357</context>
+          <context context-type="linenumber">362</context>
         </context-group>
       </trans-unit>
       <trans-unit id="userentryStatus" datatype="html">
@@ -669,7 +656,7 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">Status</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.html</context>
-          <context context-type="linenumber">432</context>
+          <context context-type="linenumber">437</context>
         </context-group>
       </trans-unit>
       <trans-unit id="userentryinvitationExpiration" datatype="html">
@@ -677,15 +664,15 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">Ablaufdatum der Einladung</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.html</context>
-          <context context-type="linenumber">459</context>
+          <context context-type="linenumber">471</context>
         </context-group>
       </trans-unit>
       <trans-unit id="discardUnsavedSettings" datatype="html">
-        <source> Verwerfen </source>
+        <source>Verwerfen</source>
         <target state="new">Verwerfen </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.html</context>
-          <context context-type="linenumber">499,501</context>
+          <context context-type="linenumber">511</context>
         </context-group>
       </trans-unit>
       <trans-unit id="newStateCaption" datatype="html">
@@ -733,7 +720,7 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">Nach dem erstmaligen Speichern verfügbar.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.ts</context>
-          <context context-type="linenumber">36</context>
+          <context context-type="linenumber">37</context>
         </context-group>
       </trans-unit>
       <trans-unit id="saveButtonMandatoryFieldsCaption" datatype="html">
@@ -741,7 +728,7 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">Alle Pflichtfelder müssen korrekt gefüllt sein.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.ts</context>
-          <context context-type="linenumber">37</context>
+          <context context-type="linenumber">38</context>
         </context-group>
       </trans-unit>
       <trans-unit id="emailFormatTooltipCaption" datatype="html">
@@ -753,7 +740,7 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.ts</context>
-          <context context-type="linenumber">39</context>
+          <context context-type="linenumber">40</context>
         </context-group>
       </trans-unit>
       <trans-unit id="bkzLengthTooltipCaption" datatype="html">
@@ -761,7 +748,7 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">Geben Sie ein ein- bis vierstelliges Benutzerkennzeichen ein.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.ts</context>
-          <context context-type="linenumber">40</context>
+          <context context-type="linenumber">41</context>
         </context-group>
       </trans-unit>
       <trans-unit id="bkzSUPTooltipCaption" datatype="html">
@@ -769,7 +756,7 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">SUP wird für interne Zwecke verwendet.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.ts</context>
-          <context context-type="linenumber">41</context>
+          <context context-type="linenumber">42</context>
         </context-group>
       </trans-unit>
       <trans-unit id="lastnameTooltipCaption" datatype="html">
@@ -777,7 +764,7 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">Geben Sie einen Nachnamen ein.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.ts</context>
-          <context context-type="linenumber">42</context>
+          <context context-type="linenumber">43</context>
         </context-group>
       </trans-unit>
       <trans-unit id="firstnameTooltipCaption" datatype="html">
@@ -785,7 +772,7 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">Geben Sie einen Vornamen ein.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.ts</context>
-          <context context-type="linenumber">43</context>
+          <context context-type="linenumber">44</context>
         </context-group>
       </trans-unit>
       <trans-unit id="changeCurrentUserAdminFlagErrorCaption" datatype="html">
@@ -793,7 +780,7 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">Sie können sich nicht selbst Rechte entziehen.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.ts</context>
-          <context context-type="linenumber">45</context>
+          <context context-type="linenumber">46</context>
         </context-group>
       </trans-unit>
       <trans-unit id="changeCurrentUserAdminFlagOkCaption" datatype="html">
@@ -801,7 +788,7 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">Darf Benutzerverwaltung verwenden</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.ts</context>
-          <context context-type="linenumber">46</context>
+          <context context-type="linenumber">47</context>
         </context-group>
       </trans-unit>
       <trans-unit id="userlicenceTooltipReadonlyCaption" datatype="html">
@@ -809,7 +796,7 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">Benutzertyp über Schaltfläche „Named-User-Lizenzen öffnen“ ändern.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.ts</context>
-          <context context-type="linenumber">48</context>
+          <context context-type="linenumber">49</context>
         </context-group>
       </trans-unit>
       <trans-unit id="stateTooltipInvitedCaption" datatype="html">
@@ -825,15 +812,15 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">Benutzerkennzeichen wiederverwenden.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.ts</context>
-          <context context-type="linenumber">49</context>
+          <context context-type="linenumber">50</context>
         </context-group>
       </trans-unit>
       <trans-unit id="bkzPlaceholderCaption" datatype="html">
-        <source> 1 bis 4 Zeichen</source>
+        <source>1 bis 4 Zeichen</source>
         <target state="new"> 1 bis 4 Zeichen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.ts</context>
-          <context context-type="linenumber">50</context>
+          <context context-type="linenumber">51</context>
         </context-group>
       </trans-unit>
       <trans-unit id="defaultSaveCaption" datatype="html">
@@ -841,7 +828,7 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">Speichern</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.ts</context>
-          <context context-type="linenumber">52</context>
+          <context context-type="linenumber">53</context>
         </context-group>
       </trans-unit>
       <trans-unit id="illegalLicenseStatusCaption" datatype="html">
@@ -849,7 +836,7 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">Dieser Benutzer muss noch lizenziert werden.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.ts</context>
-          <context context-type="linenumber">58</context>
+          <context context-type="linenumber">59</context>
         </context-group>
       </trans-unit>
       <trans-unit id="legalLicenseStatusCaption" datatype="html">
@@ -857,7 +844,7 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">Dieser Benutzer ist lizenziert.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.ts</context>
-          <context context-type="linenumber">59</context>
+          <context context-type="linenumber">60</context>
         </context-group>
       </trans-unit>
       <trans-unit id="orderNewLicence" datatype="html">
@@ -865,7 +852,7 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">neue Lizenzen anfordern</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.ts</context>
-          <context context-type="linenumber">61</context>
+          <context context-type="linenumber">62</context>
         </context-group>
       </trans-unit>
       <trans-unit id="welcomeTitleText" datatype="html">
@@ -895,6 +882,10 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
       <trans-unit id="loginLinkCaption" datatype="html">
         <source>Zum Anmelden</source>
         <target state="new">Zum Anmelden</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/login/login.component.ts</context>
+          <context context-type="linenumber">90</context>
+        </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/welcome/welcome.component.ts</context>
           <context context-type="linenumber">21</context>
@@ -1217,7 +1208,7 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">Concurrent User</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/services/licence.service.ts</context>
-          <context context-type="linenumber">22</context>
+          <context context-type="linenumber">23</context>
         </context-group>
       </trans-unit>
       <trans-unit id="licenseBOTUSER" datatype="html">
@@ -1225,7 +1216,7 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">Integration Bot</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/services/licence.service.ts</context>
-          <context context-type="linenumber">23</context>
+          <context context-type="linenumber">24</context>
         </context-group>
       </trans-unit>
       <trans-unit id="licenseKBB" datatype="html">
@@ -1233,7 +1224,7 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">Kassenbuch+</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/services/licence.service.ts</context>
-          <context context-type="linenumber">24</context>
+          <context context-type="linenumber">25</context>
         </context-group>
       </trans-unit>
       <trans-unit id="licenseNREWE" datatype="html">
@@ -1241,7 +1232,7 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">Named User</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/services/licence.service.ts</context>
-          <context context-type="linenumber">25</context>
+          <context context-type="linenumber">26</context>
         </context-group>
       </trans-unit>
       <trans-unit id="licenseBWLESE" datatype="html">
@@ -1249,7 +1240,7 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">Nur-Lese-Benutzer</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/services/licence.service.ts</context>
-          <context context-type="linenumber">26</context>
+          <context context-type="linenumber">27</context>
         </context-group>
       </trans-unit>
       <trans-unit id="licensePROZESS" datatype="html">
@@ -1257,7 +1248,7 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">Prozess Benutzer</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/services/licence.service.ts</context>
-          <context context-type="linenumber">27</context>
+          <context context-type="linenumber">28</context>
         </context-group>
       </trans-unit>
       <trans-unit id="licensePRUEF" datatype="html">
@@ -1265,7 +1256,7 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">Prüferarbeitsplatz+</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/services/licence.service.ts</context>
-          <context context-type="linenumber">28</context>
+          <context context-type="linenumber">29</context>
         </context-group>
       </trans-unit>
       <trans-unit id="numberOfAvailableLicensesCaption" datatype="html">
@@ -1275,12 +1266,16 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
           <x id="PH" equiv-text="numberOfAvailableLicenses" /> von <x id="PH_1" equiv-text="numberOfLicenses" /> Lizenzplätzen sind verfügbar</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/services/licence.service.ts</context>
-          <context context-type="linenumber">86</context>
+          <context context-type="linenumber">90</context>
         </context-group>
       </trans-unit>
       <trans-unit id="unknownErrorMessageText" datatype="html">
         <source>Unbekannter Fehler.</source>
         <target state="new">Unbekannter Fehler.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/services/message.service.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/services/problem-details-mapping.service.ts</context>
           <context context-type="linenumber">10</context>
@@ -1291,7 +1286,7 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">Benutzer eingeladen.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/services/user-data.service.ts</context>
-          <context context-type="linenumber">42</context>
+          <context context-type="linenumber">45</context>
         </context-group>
       </trans-unit>
       <trans-unit id="saveSuccessCaption" datatype="html">
@@ -1299,7 +1294,7 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">Benutzer gespeichert.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/services/user-data.service.ts</context>
-          <context context-type="linenumber">43</context>
+          <context context-type="linenumber">46</context>
         </context-group>
       </trans-unit>
       <trans-unit id="deactivateSuccessCaption" datatype="html">
@@ -1307,7 +1302,7 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">Benutzer deaktiviert.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/services/user-data.service.ts</context>
-          <context context-type="linenumber">44</context>
+          <context context-type="linenumber">47</context>
         </context-group>
       </trans-unit>
       <trans-unit id="deleteSuccessCaption" datatype="html">
@@ -1315,7 +1310,7 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">Benutzer gelöscht.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/services/user-data.service.ts</context>
-          <context context-type="linenumber">45</context>
+          <context context-type="linenumber">48</context>
         </context-group>
       </trans-unit>
       <trans-unit id="invitationRevokedSuccessCaption" datatype="html">
@@ -1323,47 +1318,51 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">Einladung zurückgezogen.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/services/user-data.service.ts</context>
-          <context context-type="linenumber">46</context>
+          <context context-type="linenumber">49</context>
         </context-group>
       </trans-unit>
       <trans-unit id="loadDataErrorMessage" datatype="html">
         <source>Fehler beim Laden der Daten. Versuchen Sie es später erneut.</source>
         <target state="new">Fehler beim Laden der Daten. Versuchen Sie es später erneut.</target>
         <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/services/handle-error.service.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+        <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/services/user-data.service.ts</context>
-          <context context-type="linenumber">47</context>
+          <context context-type="linenumber">50</context>
         </context-group>
       </trans-unit>
       <trans-unit id="changeEmailChangesDialog" datatype="html">
-        <source> E-Mail-Adresse ändern </source>
+        <source>E-Mail-Adresse ändern</source>
         <target state="new"> E-Mail-Adresse ändern </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/change-email-action/change-email-action.component.html</context>
-          <context context-type="linenumber">3,5</context>
+          <context context-type="linenumber">3</context>
         </context-group>
       </trans-unit>
       <trans-unit id="verifyEmail" datatype="html">
-        <source> Der Benutzer muss die neue E-Mail-Adresse verifizieren. </source>
+        <source>Der Benutzer muss die neue E-Mail-Adresse verifizieren.</source>
         <target state="new"> Der Benutzer muss die neue E-Mail-Adresse verifizieren. </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/change-email-action/change-email-action.component.html</context>
-          <context context-type="linenumber">6,8</context>
+          <context context-type="linenumber">4</context>
         </context-group>
       </trans-unit>
       <trans-unit id="abort" datatype="html">
-        <source> Abbrechen </source>
+        <source>Abbrechen</source>
         <target state="new"> Abbrechen </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/change-email-action/change-email-action.component.html</context>
-          <context context-type="linenumber">37,39</context>
+          <context context-type="linenumber">33</context>
         </context-group>
       </trans-unit>
       <trans-unit id="changeEmailAddressAndClose" datatype="html">
-        <source> Ändern und schließen </source>
+        <source>Ändern und schließen</source>
         <target state="new"> Ändern und schließen </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/change-email-action/change-email-action.component.html</context>
-          <context context-type="linenumber">47,49</context>
+          <context context-type="linenumber">41</context>
         </context-group>
       </trans-unit>
       <trans-unit id="faultyUserMessageTitle" datatype="html">
@@ -1395,23 +1394,23 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">Der Benutzer ist fehlerhaft. Wenden Sie sich an Ihren Supportpartner.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/user-entries/user-entries.component.ts</context>
-          <context context-type="linenumber">41</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="faultyBkzText" datatype="html">
-        <source>Benutzerkennzeichen * fehlt </source>
-        <target state="new">Benutzerkennzeichen * fehlt </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/user-management/components/user-entries/user-entries.component.ts</context>
           <context context-type="linenumber">43</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="faultyBkzText" datatype="html">
+        <source>Benutzerkennzeichen * fehlt</source>
+        <target state="new">Benutzerkennzeichen * fehlt </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entries/user-entries.component.ts</context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="changeEmailButtonTooltip" datatype="html">
-        <source>Sie können die eigene E-Mail-Adresse nicht ändern. </source>
+        <source>Sie können die eigene E-Mail-Adresse nicht ändern.</source>
         <target state="new">Sie können die eigene E-Mail-Adresse nicht ändern. </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.ts</context>
-          <context context-type="linenumber">62</context>
+          <context context-type="linenumber">63</context>
         </context-group>
       </trans-unit>
       <trans-unit id="serverErrorEmailExists" datatype="html">
@@ -1427,7 +1426,7 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <target state="new">E-Mail-Adresse geändert.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/services/user-data.service.ts</context>
-          <context context-type="linenumber">48</context>
+          <context context-type="linenumber">51</context>
         </context-group>
       </trans-unit>
       <trans-unit id="serverExternalIdentityProviderUsed" datatype="html">
@@ -1436,6 +1435,184 @@ Für den gewählten Benutzertyp <x id="PH" equiv-text="this.licenceText" /> sind
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-management/models/problem-details-map.ts</context>
           <context context-type="linenumber">86</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="federatedConnectionMessageTitle" datatype="html">
+        <source>Daten sind nicht änderbar</source>
+        <target state="new">Daten sind nicht änderbar</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/federated-connection-banner/federated-connection-banner.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="federatedConnectionMessageCaption1" datatype="html">
+        <source>Sie arbeiten mit einer Anmeldung über einen externen Identity Provider. Deshalb ist das Ändern Ihrer Daten im Rechnungswesen nicht möglich.</source>
+        <target state="new">Sie arbeiten mit einer Anmeldung über einen externen Identity Provider. Deshalb ist das Ändern Ihrer Daten im Rechnungswesen nicht möglich.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/federated-connection-banner/federated-connection-banner.component.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="federatedConnectionMessageCaption2" datatype="html">
+        <source>Ändern Sie die Daten direkt bei Ihrem Identity Provider und synchronisieren Sie diese anschließend.</source>
+        <target state="new">Ändern Sie die Daten direkt bei Ihrem Identity Provider und synchronisieren Sie diese anschließend.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/federated-connection-banner/federated-connection-banner.component.ts</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="synchronizeUsersLink" datatype="html">
+        <source>Profildaten aller Benutzer synchronisieren</source>
+        <target state="new">Profildaten aller Benutzer synchronisieren</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/federated-synchronization-banner/federated-synchronization-banner.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="federatedSynchronizationNeededDetailsForMoreThanOneUser" datatype="html">
+        <source>Bei <x id="PH" equiv-text="this.notMatchingUsersCount" /> Benutzern gibt es abweichende Profildaten.</source>
+        <target state="new">
+
+Bei <x id="PH" equiv-text="this.notMatchingUsersCount" /> Benutzern gibt es abweichende Profildaten.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/federated-synchronization-banner/federated-synchronization-banner.component.ts</context>
+          <context context-type="linenumber">110</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="userentries_show_user_details" datatype="html">
+        <source>Benutzerdetails öffnen</source>
+        <target state="new">Benutzerdetails öffnen</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entries/user-entries.component.html</context>
+          <context context-type="linenumber">178</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entries/user-entries.component.html</context>
+          <context context-type="linenumber">192</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entries/user-entries.component.html</context>
+          <context context-type="linenumber">200</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entries/user-entries.component.html</context>
+          <context context-type="linenumber">215</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entries/user-entries.component.html</context>
+          <context context-type="linenumber">247</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="synchronizationRequiredTooltipCaption" datatype="html">
+        <source>Abweichende Profildaten</source>
+        <target state="new">Abweichende Profildaten</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entries/user-entries.component.ts</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="synchronizationRequiredStateCaption" datatype="html">
+        <source>Synchronisation notwendig</source>
+        <target state="new">Synchronisation notwendig</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/user-entry-data/user-entry-data.component.ts</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="federatedSynchronizationNeededTitle" datatype="html">
+        <source>Die Profildaten der Benutzer in Ihrem Rechnungswesen sind nicht aktuell</source>
+        <target state="new">Die Profildaten der Benutzer in Ihrem Rechnungswesen sind nicht aktuell</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/federated-synchronization-banner/federated-synchronization-banner.component.ts</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="handleUserSynchronizedSucessCaption" datatype="html">
+        <source>Benutzer synchronisiert.</source>
+        <target state="new">Benutzer synchronisiert.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/services/user-data.service.ts</context>
+          <context context-type="linenumber">52</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="federatedSynchronizationNeededDetailsForOneUser" datatype="html">
+        <source>Bei <x id="PH" equiv-text="this.notMatchingUsersCount" /> Benutzer gibt es abweichende Profildaten.</source>
+        <target state="new">Bei diesem Benutzer gibt es abweichende Profildaten.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/federated-synchronization-banner/federated-synchronization-banner.component.ts</context>
+          <context context-type="linenumber">109</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="synchronizeUsersTitle" datatype="html">
+        <source>Profildaten aller Benutzer synchronisieren</source>
+        <target state="new">Profildaten aller Benutzer synchronisieren</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/federated-synchronization-banner/federated-synchronization-banner.component.ts</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="synchronizeUsersCaption" datatype="html">
+        <source>Die Profildaten der Benutzer im Rechnungswesen werden überschrieben.</source>
+        <target state="new">Die Profildaten der Benutzer im Rechnungswesen werden überschrieben.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/federated-synchronization-banner/federated-synchronization-banner.component.ts</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="synchronizeAndCloseCaption" datatype="html">
+        <source>Synchronisieren</source>
+        <target state="new">Synchronisieren</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/federated-synchronization-banner/federated-synchronization-banner.component.ts</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="federatedSynchronizationNeededDetailsForSingleUser" datatype="html">
+        <source>Bei diesem Benutzer gibt es abweichende Profildaten.</source>
+        <target state="new">Bei diesem Benutzer gibt es abweichende Profildaten.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/federated-synchronization-banner/federated-synchronization-banner.component.ts</context>
+          <context context-type="linenumber">112</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="resetMFAQuestionCaption" datatype="html">
+        <source>Möchten Sie die MFA wirklich zurücksetzen?</source>
+        <target state="new">Möchten Sie die MFA wirklich zurücksetzen?</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/reset-mfa-action/reset-mfa-action.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="resetMFADescriptionCaption" datatype="html">
+        <source>Wenn Sie die Multi-Faktor-Authentifizierung zurücksetzen, wird die Verknüpfung zu der aktuell eingerichteten Authentifizierungsmethode entfernt. Der Benutzer muss die Multi-Faktor-Authentifizierung neu einrichten und erhält dazu eine Aufforderung per E-Mail.</source>
+        <target state="new">Wenn Sie die Multi-Faktor-Authentifizierung zurücksetzen, wird die Verknüpfung zu der aktuell eingerichteten Authentifizierungsmethode entfernt. Der Benutzer muss die Multi-Faktor-Authentifizierung neu einrichten und erhält dazu eine Aufforderung per E-Mail.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/reset-mfa-action/reset-mfa-action.component.ts</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="confirmResetCaption" datatype="html">
+        <source>Zurücksetzen</source>
+        <target state="new">Zurücksetzen</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/reset-mfa-action/reset-mfa-action.component.ts</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="resetMFACaption" datatype="html">
+        <source>MFA zurücksetzen</source>
+        <target state="new">MFA zurücksetzen</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/components/reset-mfa-action/reset-mfa-action.component.ts</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="handleResetMFASucessCaption" datatype="html">
+        <source>Multi-Faktor-Authentifizierung erfolgreich zurückgesetzt.</source>
+        <target state="new">Multi-Faktor-Authentifizierung erfolgreich zurückgesetzt.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-management/services/user-data.service.ts</context>
+          <context context-type="linenumber">53</context>
         </context-group>
       </trans-unit>
     </body>
